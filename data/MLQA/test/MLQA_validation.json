@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "title": "Document",
+      "paragraphs": [
+        {
+          "context": "Das britische Parlament genehmigte K\u00f6nigin Victoria, ihrer Tochter als Mitgift 40.000 Britische Pfund (in heutiger Kaufkraft 3.662.803 Pfund) zu zahlen und legte die j\u00e4hrliche Apanage der Prinzessin auf 8000 Pfund fest. K\u00f6nig Friedrich Wilhelm IV. gew\u00e4hrte seinem Neffen ein j\u00e4hrliches Einkommen von 9000 Talern. Das Einkommen des Prinzen war damit nicht ausreichend, um die Kosten eines standesgem\u00e4\u00dfen Haushaltes zu decken, und einen Teil der Haushaltskosten w\u00fcrde zuk\u00fcnftig Prinzessin Victoria aus ihrem Verm\u00f6gen tragen m\u00fcssen. Der zuk\u00fcnftige Hofstaat des jungen Paares wurde von der preu\u00dfischen K\u00f6nigin und der zuk\u00fcnftigen Schwiegermutter Prinzessin Auguste ausgew\u00e4hlt. Die beiden Frauen entschieden sich \u00fcberwiegend f\u00fcr Personen, die bereits l\u00e4nger im Hofdienst standen und damit deutlich \u00e4lter als das prinzliche Paar waren. Prinz Alberts Bitte, seiner Tochter doch wenigstens zwei gleichaltrige und britische Hofdamen zu gew\u00e4hren, wurde nicht entsprochen. Als Kompromiss wurden mit den Komtessen Walburga von Hohenthal und Marie zu Lynar zwei Hofdamen gew\u00e4hlt, die Prinzessin Victoria wenigstens altersm\u00e4\u00dfig entsprachen. Immerhin konnte Prinz Albert Ernst von Stockmar, den Sohn seines jahrelangen Beraters Christian Friedrich von Stockmar, als pers\u00f6nlichen Sekret\u00e4r der Prinzessin durchsetzen. Prinz Albert, der \u00fcberzeugt davon war, dass der preu\u00dfische Hof die Einheirat einer britischen Prinzessin als Bereicherung und Ehre ans\u00e4he, bestand au\u00dferdem darauf, dass Prinzessin Victoria den Titel einer Princess Royal of the United Kingdom of Great Britain and Ireland beibehielt. An dem \u00fcberwiegend antibritisch und prorussisch eingestellten preu\u00dfischen Hof l\u00f6ste dieser Schritt allerdings nur Ver\u00e4rgerung aus.Der Hochzeitsort war Anlass f\u00fcr weitere Meinungsverschiedenheiten. F\u00fcr das preu\u00dfische K\u00f6nigshaus war es selbstverst\u00e4ndlich, dass ein Prinz, der als zweiter in der Thronfolge stand, in Berlin heiratete. Letztlich konnte sich aber K\u00f6nigin Victoria durchsetzen, die als regierende Monarchin f\u00fcr sich in Anspruch nahm, ihre \u00e4lteste Tochter in ihrem Land zu verm\u00e4hlen. Das Paar trat schlie\u00dflich am 25. Januar 1858 in der Kapelle des St James\u2019s Palace in London vor den Traualtar.",
+          "qas": [
+            {
+              "id": "b6fc947411e98316fd0790477c4dc3bd97f4df4c",
+              "question": "What were the positions of the Berlin court with respect to Britain and Russia?",
+              "answers": [
+                {
+                  "text": "\u00fcberwiegend antibritisch und prorussisch",
+                  "answer_start": 1591
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "schrieb Prinzessin Victoria an ihre Mutter. Die Siebzehnj\u00e4hrige hatte umfangreiche repr\u00e4sentative Aufgaben wahrzunehmen. An fast jedem Abend war sie verpflichtet, bei f\u00f6rmlichen Abendessen, Theaterbesuchen und anschlie\u00dfenden Empf\u00e4ngen zu erscheinen. Waren Mitglieder anderer europ\u00e4ischer F\u00fcrstenh\u00e4user, wie etwa die eng verwandten Romanows, in Berlin oder Potsdam zu Gast, erweiterten sich die repr\u00e4sentativen Pflichten der Prinzessin. Mitunter hatte sie bereits morgens um 7 Uhr G\u00e4ste des K\u00f6nigshauses am Bahnhof zu begr\u00fc\u00dfen und noch um Mitternacht bei Empf\u00e4ngen anwesend zu sein. Als Wohnort hatte man dem jungen Paar zun\u00e4chst den alten Fl\u00fcgel des Berliner Stadtschlosses zugewiesen, der sich in einem schlechten Bauzustand befand und noch nicht einmal \u00fcber eine Badewanne verf\u00fcgte. Im November 1858 wurde das Kronprinzenpalais in Berlin zu ihrer Stadt- sowie das Neue Palais in Potsdam zu ihrer Sommerresidenz.",
+          "qas": [
+            {
+              "id": "1ec95d772c4d42c1bc13ef5747956f6c5e1354c6",
+              "question": "what did the building lack?",
+              "answers": [
+                {
+                  "text": "Badewanne",
+                  "answer_start": 765
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Am 2. Januar 1861 starb K\u00f6nig Friedrich Wilhelm IV. Sein Nachfolger war sein Bruder Wilhelm I. Prinz Friedrich Wilhelm war damit preu\u00dfischer Kronprinz. Die Position des Kronprinzenpaares wurde dadurch keineswegs einfacher: Wilhelm I. weigerte sich, das Einkommen seines Sohnes zu erh\u00f6hen, so dass Kronprinzessin Victoria aus ihrer britischen Mitgift zur Haushaltsf\u00fchrung beitragen musste. In einem Brief an Prinzessin Victorias Sekret\u00e4r Baron Stockmar kommentierte ihr Vater Prinz Albert:",
+          "qas": [
+            {
+              "id": "0f9ada8b937566f5fffda8be101a5dee1e8d71a2",
+              "question": "Who did Prince Albert write to about the use of Crown Princess Victoria's dowry as a major contribution to the family budget after King Frederick William IV died?",
+              "answers": [
+                {
+                  "text": "Baron Stockmar",
+                  "answer_start": 437
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die zwei gro\u00dfen milit\u00e4rischen Erfolge, die Preu\u00dfen mit dem Sieg im Deutsch-D\u00e4nischen und im so genannten Deutschen Krieg in den vier Jahren seit Otto von Bismarcks Amtsantritt errungen hatte, festigte dessen Position als Ministerpr\u00e4sident. Die Indemnit\u00e4tsvorlage, die er kurz nach dem Sieg von K\u00f6niggr\u00e4tz dem Abgeordnetenhaus vorlegte und mit dem die Regierung um nachtr\u00e4gliche Zustimmung zu den w\u00e4hrend der verfassungslosen Zeit gemachten Ausgaben ersuchte, spaltete die Liberalen, die in Opposition zu Bismarck gestanden hatten. Sie machte auch deutlich, dass Kronprinz Friedrich Wilhelm einen deutlich gem\u00e4\u00dfigteren Liberalismus als seine Frau vertrat: Kronprinz Friedrich Wilhelm begr\u00fc\u00dfte den Norddeutschen Bund, in dem sich nach dem Sieg \u00fcber \u00d6sterreich eine Reihe norddeutscher Kleinstaaten unter der Vorherrschaft von Preu\u00dfen zu einem Bundesstaat zusammengeschlossen hatten und den er als ersten Schritt zur Einigung Deutschlands sah. Die Verfassung dieses Bundesstaates war jedoch nicht durch eine Nationalversammlung beschlossen, sondern gr\u00fcndete auf Monarchensouver\u00e4nit\u00e4t und r\u00e4umte dem preu\u00dfischen K\u00f6nig und dem Bundeskanzler Otto von Bismarck weitreichende Rechte ein. Der Reichstag wurde zwar demokratisch gew\u00e4hlt, hatte aber nicht die Kompetenzen eines Parlaments. Kronprinzessin Victoria sah im Norddeutschen Bund mehr als ihr Mann eine erzwungene Ausdehnung des bestehenden preu\u00dfischen Systems, dem sie kritisch gegen\u00fcberstand. Hoffnungsfroh, dass dieser Zustand nur vor\u00fcbergehend sei, schrieb sie an ihre Mutter:",
+          "qas": [
+            {
+              "id": "e0c3d79d01585f4f00cff71ba9c0de9a3b49a71a",
+              "question": "What does Vicky have hatred for",
+              "answers": [
+                {
+                  "text": "Norddeutschen Bund",
+                  "answer_start": 1309
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Der Kronprinz wurde stattdessen zum Kurator der k\u00f6niglichen Museen ernannt \u2013 eine Aufgabe, die bei seiner Ehefrau m\u00f6glicherweise auf mehr Enthusiasmus stie\u00df. Victoria von Sachsen-Coburg und Gotha hatte auf Anregung ihres Vaters ihre Ausbildung von Beginn der Ehe an fortgesetzt. Sie las Goethe, Lessing, Heine und John Stuart Mill. Gustav Freytag z\u00e4hlte zu den Bekannten des Ehepaares, der Schriftsteller Gustav von Putlitz war zeitweilig ihr Hofmarschall. Trotz Emp\u00f6rung ihrer Mutter besch\u00e4ftigte sie sich mit Darwins Evolutionslehre und diskutierte sie mit dem britischen Geologen Lyell. Die von Zeitgenossen als fortschrittlich und kultiviert eingesch\u00e4tzte Kronprinzessin las auch die Schriften von Karl Marx, um die Ziele der Sozialisten zu verstehen, und verkehrte mit ihrem Mann im liberalen Salon der Gr\u00e4fin Schleinitz, der als \"Treffpunkt der zahlreichen Bismarckfronde\" galt. Richard Wagners Pamphlet \u201e\u00dcber den Einfluss der Juden auf die Musik\u201c nannte sie in einem Brief an ihre Mutter verr\u00fcckt \u2013 sie h\u00e4tte bislang nichts so \u201eheftiges, eingebildetes und ungerechtes\u201c gelesen. Weit mehr als am Hof ihrer Schwiegereltern z\u00e4hlten Liberale wie Reichstagsvizepr\u00e4sident Freiherr von Stauffenberg und B\u00fcrgerliche zu den G\u00e4sten und Bekannten des Kronprinzenpaares, darunter unter anderem der Physiker Hermann von Helmholtz, der Pathologe Rudolf Virchow, der Philosoph Eduard Zeller und der Historiker Hans Delbr\u00fcck.Die Kronprinzessin war eine begabte Hobbymalerin und nahm bei Heinrich von Angeli und Anton von Werner Unterricht. Von einem nahezu freundschaftlichen Verh\u00e4ltnis mit dem Ehepaar Werner zeugen ein Venedigaufenthalt 1875 und die Taufpatenschaft Victorias f\u00fcr den Sohn der Werners 1879.Im Herbst 1878 starb Kronprinzessin Victorias Schwester und enge Vertraute Alice von Hessen-Darmstadt sowie deren kleine Tochter an Diphtherie. Wenige Wochen sp\u00e4ter erlag auch Waldemar, der dritte noch lebende Sohn des Kronprinzenpaares, dieser Krankheit. Sowohl bei der Kronprinzessin als auch dem Kronprinzen l\u00f6sten die Todesf\u00e4lle einen lang anhaltenden Zustand von Schock und Depressionen aus. Der Tod von Waldemar fiel in eine Zeit, in der deutlich wurde, dass Victoria und ihr \u00e4ltester Sohn Wilhelm sich zunehmend entfremdet hatten, Prinz Heinrich seinen Dienst bei der Marine begann und die mittlerweile verheiratete Prinzessin Charlotte ihr erstes Kind erwartete. Obwohl das hohe Lebensalter von Wilhelm I. es zunehmend wahrscheinlich machte, dass ihm bald Kronprinz Friedrich Wilhelm auf dem Thron nachfolgen w\u00fcrde, hatte das Kronprinzenpaar nach wie vor keinerlei Einfluss auf die Politik des Reiches. Ihre Ohnmacht machte ihnen Otto von Bismarck deutlich, indem er \u00fcber Monate die Zustimmung des Hofes zu der Verbindung Prinz Wilhelms mit Prinzessin Auguste Viktoria verweigerte und am Hof des Kronprinzenpaares liberale Hofangeh\u00f6rige gegen ultrakonservative Kr\u00e4fte austauschte. Besonders bitter war f\u00fcr das Kronprinzenpaar der Verlust des Hofmarschalls und Privatsekret\u00e4rs Karl von Normann, der dem Kronprinzen 20 Jahre lang gedient hatte. H\u00e4ufig konnte das Kronprinzenpaar nur durch symbolische Gesten ihre politische \u00dcberzeugung zeigen. W\u00e4hrend antisemitischer Unruhen zu Beginn der 1880er Jahre besuchte das Kronprinzenpaar demonstrativ ein Konzert in einer Wiesbadener Synagoge und der Kronprinz nahm in Berlin an einem j\u00fcdischen Gottesdienst teil.Zwischen Kronprinzessin Victoria und Otto von Bismarck kam es wegen der Heiratspl\u00e4ne f\u00fcr Prinzessin Viktoria zu ihrer vermutlich gr\u00f6\u00dften Auseinandersetzung. Der Streit ist als Battenberg-Aff\u00e4re in die Geschichte eingegangen. Alexander von Battenberg war der zweit\u00e4lteste Sohn aus der morganatischen Ehe von Alexander von Hessen-Darmstadt mit Julia Hauke. Als ein Kandidat f\u00fcr den bulgarischen Thron gesucht wurde, wurde er auf Vorschlag seines Onkels, des Zaren Alexander II., als F\u00fcrst von Bulgarien eingesetzt. Alexander II. erwartete von seinem Neffen eine entschieden prorussische Politik. Als er diese Erwartung nicht erf\u00fcllte, wurde F\u00fcrst Alexander 1886 vom Zaren zur Abdankung gezwungen. Prinzessin Viktoria war in den gut aussehenden F\u00fcrsten Alexander seit Beginn der 1880er Jahre verliebt; Kronprinzessin Victoria sowie K\u00f6nigin Victoria hielten beide eine Verbindung mit diesem F\u00fcrstenhaus f\u00fcr w\u00fcnschenswert. Otto von Bismarck sah dagegen in dieser geplanten Verbindung eine Gef\u00e4hrdung seiner prorussischen Politik und setzte letztlich bei Wilhelm I. ein Verbot der Verbindung durch. Der Streit mit dem Kronprinzenpaar um die Verheiratung von Prinzessin Viktoria f\u00fchrte letztlich dazu, dass Wilhelm I. seinen Sohn und Thronfolger \u00fcberging und seinen Enkel Wilhelm damit betraute, den preu\u00dfischen Hof auf Staatsreisen zu vertreten. Gro\u00dfvater und Enkel hatten ein enges Verh\u00e4ltnis zueinander; die beiden speisten h\u00e4ufig zusammen in den Privatr\u00e4umen des Kaisers und politisch stand der Enkel seinem Gro\u00dfvater sehr nahe. Prinz Wilhelm hatte zwar wie sein Vater zun\u00e4chst die Bonner Universit\u00e4t besucht, das Studium aber nach vier Semestern abgebrochen, um seine milit\u00e4rische Ausbildung fortzusetzen. Wie Prinz Wilhelm hatten sich auch Prinzessin Charlotte und Prinz Heinrich weitgehend von den Eltern ab- und den Gro\u00dfeltern zugewandt. Die Hoffnung Kronprinzessin Victorias, dass sich Prinz Wilhelm durch die Heirat mit Prinzessin Auguste Victoria zu einer politisch liberalen Haltung bekehren w\u00fcrde, trog ebenfalls: Die Prinzessin vertrat politisch eine vollkommen andere Haltung, als ihre Herkunft aus der als liberal geltenden Familie der Augustenburger vermuten lie\u00df.",
+          "qas": [
+            {
+              "id": "6f9c7007fdebe5ffb07cbd710acdd267241dc15d",
+              "question": "which physicians did the princely couple receive?",
+              "answers": [
+                {
+                  "text": "Physiker Hermann von Helmholtz, der Pathologe Rudolf Virchow,",
+                  "answer_start": 1293
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

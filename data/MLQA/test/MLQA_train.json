@@ -1,0 +1,729 @@
+{
+  "data": [
+    {
+      "title": "Document",
+      "paragraphs": [
+        {
+          "context": "Am 27. M\u00e4rz um 12:36 Uhr warfen ein oder zwei ann\u00e4hernd gleichzeitige phreatische Eruptionen (explosionsartige Dampfaustritte des Grundwassers) Asche und Ger\u00f6ll aus dem Inneren des Gipfelkraters und erzeugten neben einer etwa 1800 Meter hohen Asches\u00e4ule auch einen neuen, etwa 76 Meter durchmessenden Krater. Zum gleichen Zeitpunkt bildete sich im Gipfelbereich ein etwa 4900 Meter langes, nach Osten verlaufendes Netz aus Rissen. Weitere Erdsto\u00dfwellen und eine Reihe von Dampfexplosionen schleuderten Vulkanasche zwischen 3050 und 3350 Meter hoch \u00fcber den Krater hinaus. Der Gro\u00dfteil dieser Asche ging in einem Umkreis zwischen f\u00fcnf und 19 Kilometern nieder; einzelne Niederschl\u00e4ge wurden jedoch noch 240 Kilometer s\u00fcdlich in Bend, Oregon, und 285 Kilometer \u00f6stlich in Spokane, Washington, festgestellt. Aufgrund der durch Schneeschmelze drohenden \u00dcberflutungen und der durch Erdst\u00f6\u00dfe ausgel\u00f6sten Erdrutsche wurde ab dem 27. M\u00e4rz eine Sicherheitszone im Umkreis von rund 25 Kilometern um den Vulkan errichtet. Die in diesem Gebiet lebenden Menschen wurden evakuiert.",
+          "qas": [
+            {
+              "id": "c076d4b0a1967805a45e7ab1e247e3a0739d4850",
+              "question": "how many feet above the vent was the steam explosion?",
+              "answers": [
+                {
+                  "text": "3050 und 3350 Meter",
+                  "answer_start": 523
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "W\u00e4hrend die Ger\u00f6lllawine und der initiale pyroklastische Strom sich noch immer ausbreiteten, wuchs eine Asches\u00e4ule (plinianische S\u00e4ule) oberhalb des Vulkans heran, die innerhalb von zehn Minuten eine H\u00f6he von 19 Kilometern erreichte und f\u00fcr eine Dauer von zehn Stunden Pyroklastika (aus dem Erdinneren stammende Feststoffe) in die Stratosph\u00e4re schleuderte. Nahe dem Vulkan erzeugten die umherwirbelnden Aschepartikel durch statische Elektrizit\u00e4t Blitze, die ihrerseits Waldbr\u00e4nde verursachten. W\u00e4hrend dieser Zeit kollabierten Teile der nun pilzf\u00f6rmigen Aschewolke und sandten weitere pyroklastische Str\u00f6me entlang der Flanken des Mount St. Helens. Sp\u00e4tere Str\u00f6me entstammten direkt dem neuen nordw\u00e4rtigen Krater und bestanden aus gl\u00fchendem Bimsstein und sehr hei\u00dfer Bimsasche. Einige dieser Str\u00f6me verdampften Eis und Wasser und schufen so Krater von bis zu 20 Metern Durchmesser, was Asche in H\u00f6hen bis zu zwei Kilometer (6500 Fu\u00df) katapultierte.",
+          "qas": [
+            {
+              "id": "ac1b3ed8f09ad30a070a7e6acacd360b4228576e",
+              "question": "Where was the conflagration in the woods located?",
+              "answers": [
+                {
+                  "text": "Nahe dem Vulkan",
+                  "answer_start": 357
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Starke H\u00f6henwinde trugen einen Gro\u00dfteil der Asche mit einer durchschnittlichen Geschwindigkeit von 100 Kilometern pro Stunde ostnord\u00f6stlich des Vulkans. Um 9:45 Uhr erreichte der erste Ascheregen Yakima im Bundesstaat Washington, einen Ort, der 145 Kilometer vom Vulkan entfernt liegt. Insgesamt fielen 100 bis 130 Millimeter Asche auf Yakima nieder und in einem Gebiet, das bis nach Spokane reichte, herrschte zur Mittagszeit nur noch eine Sichtweite von drei Metern. Um 22:15 Uhr ging der erste Ascheregen im westlichen Teil des Yellowstone-Nationalpark nieder. In Denver im US-Bundesstaat Colorado meldete man den ersten Ascheregen am n\u00e4chsten Tag. \u00dcber die n\u00e4chsten Tage wurde Ascheregen auch aus so weit entfernten Gebieten wie Minnesota und Oklahoma gemeldet. Ein Teil der Asche wurde von den H\u00f6henwinden zwei Wochen lang um die ganze Erde getrieben.",
+          "qas": [
+            {
+              "id": "3246c8b734d13ce508f21c68acfcb62cfdf11986",
+              "question": "At what time did the volcano ash reach Spokane?",
+              "answers": [
+                {
+                  "text": "9:45",
+                  "answer_start": 156
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die hei\u00dfe Materie zerbarst und schmolz Gletscher und Schnee des Mount St. Helens. Wie bereits bei vorigen Ausbr\u00fcchen des Vulkans entstanden hierdurch ab 8:50 Uhr gro\u00dfe Lahare und Schlammfluten, die drei der vier Abflusssysteme des Bergs betrafen. Die Lahare bewegten sich im Gebirge mit Geschwindigkeiten von bis zu 145 Kilometern pro Stunde, verlangsamten sich in den flacheren, daf\u00fcr aber breiteren Abschnitten der Fl\u00fcsse bis auf etwa f\u00fcnf Kilometer pro Stunde. An den s\u00fcdlichen und \u00f6stlichen Flanken des Berges wiesen die Schlammstr\u00f6me etwa die Konsistenz fl\u00fcssigen Betons auf, w\u00e4hrend sie den Muddy River, die Pine Creek und die Smith Creek entlangrasten. Sie flossen schlie\u00dflich im Lewis River zusammen. Auf ihrem Weg rissen die Lahare Br\u00fccken an der M\u00fcndung des Pine Creek und des Swift Reservoirs mit sich, welches bis Mittag infolge der etwa 13 Millionen Kubikmeter Wasser, Schlamm und Ger\u00f6ll um 80 Zentimeter anstieg.",
+          "qas": [
+            {
+              "id": "e6909d110072ca524df525494a6b4620d956c8be",
+              "question": "What was the consistency of the mud after the St. Helen's eruptions?",
+              "answers": [
+                {
+                  "text": "fl\u00fcssigen Betons",
+                  "answer_start": 559
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Der Ascheregen schuf tempor\u00e4re, aber dennoch gravierende Probleme f\u00fcr Transport-, Abwasserbeseitigungs- und Wasseraufbereitungssysteme. Die Asche reduzierte die Sichtweite so stark, dass Stra\u00dfen und Highways zeitweise stillgelegt werden mussten, so etwa die Interstate 90 von Seattle bis Spokane, deren Betrieb f\u00fcr etwa eine Woche ruhte. Der Luftverkehr wurde f\u00fcr einige Tage bis hin zu zwei Wochen gest\u00f6rt, denn viele Flugh\u00e4fen mussten im \u00f6stlichen Washington aufgrund schlechter Sicht und gro\u00dfer Ascheansammlungen schlie\u00dfen. Insgesamt wurden \u00fcber tausend kommerzielle Fl\u00fcge aus diesen Gr\u00fcnden abgesagt. Die feine Asche schuf zudem gravierende Probleme in Verbrennungsmotoren und anderen mechanischen oder elektrischen Ger\u00e4ten, indem sie \u00d6lsysteme kontaminierte, Luftfilter verstopfte und bewegliche Oberfl\u00e4chen zerkratzte. Die feineren Aschepartikel bewirkten Kurzschl\u00fcsse in Transformatoren und zogen so Stromausf\u00e4lle nach sich.",
+          "qas": [
+            {
+              "id": "da889b452ea70a649685a178a815e9cd446ed515",
+              "question": "What were the primary two reasons for flight cancellations?",
+              "answers": [
+                {
+                  "text": "schlechter Sicht und gro\u00dfer Ascheansammlungen schlie\u00dfen.",
+                  "answer_start": 470
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Der Ascheregen schuf tempor\u00e4re, aber dennoch gravierende Probleme f\u00fcr Transport-, Abwasserbeseitigungs- und Wasseraufbereitungssysteme. Die Asche reduzierte die Sichtweite so stark, dass Stra\u00dfen und Highways zeitweise stillgelegt werden mussten, so etwa die Interstate 90 von Seattle bis Spokane, deren Betrieb f\u00fcr etwa eine Woche ruhte. Der Luftverkehr wurde f\u00fcr einige Tage bis hin zu zwei Wochen gest\u00f6rt, denn viele Flugh\u00e4fen mussten im \u00f6stlichen Washington aufgrund schlechter Sicht und gro\u00dfer Ascheansammlungen schlie\u00dfen. Insgesamt wurden \u00fcber tausend kommerzielle Fl\u00fcge aus diesen Gr\u00fcnden abgesagt. Die feine Asche schuf zudem gravierende Probleme in Verbrennungsmotoren und anderen mechanischen oder elektrischen Ger\u00e4ten, indem sie \u00d6lsysteme kontaminierte, Luftfilter verstopfte und bewegliche Oberfl\u00e4chen zerkratzte. Die feineren Aschepartikel bewirkten Kurzschl\u00fcsse in Transformatoren und zogen so Stromausf\u00e4lle nach sich.",
+          "qas": [
+            {
+              "id": "5e0b6f1a60fd74e928cfef32e5200055e5d69612",
+              "question": "What were the power blackouts caused by?",
+              "answers": [
+                {
+                  "text": "feine Asche",
+                  "answer_start": 609
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Zudem existieren indirekte und immaterielle Folgen. So stieg die Arbeitslosigkeit in der Region um den Mount St. Helens infolge der Eruption zeitweise auf ann\u00e4hernd das Zehnfache, um dann nach Wiederaufnahme der Nutzholzgewinnung wieder ann\u00e4hernd auf das Ausgangsniveau zur\u00fcckzufallen. Nur ein kleiner Anteil der Bewohner dieser Region verlie\u00df diese aufgrund entstandener Arbeitslosigkeit dauerhaft. Einige Monate nach dem 18. Mai berichteten einzelne Anwohner jedoch von Stress und emotionalen Problemen, obschon sie die Krise urspr\u00fcnglich gut handhaben konnten. Landkreise dieser Region forderten finanzielle Unterst\u00fctzung f\u00fcr die Behandlung dieser Probleme an.",
+          "qas": [
+            {
+              "id": "f451db6b45073b3462ad4cb3dfa8a636a46c89d0",
+              "question": "When did Employment return to normal after the eruption?",
+              "answers": [
+                {
+                  "text": "nach Wiederaufnahme der Nutzholzgewinnung",
+                  "answer_start": 188
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Miaoli (chinesisch \u82d7\u6817\u5e02, Pinyin Mi\u00e1ol\u00ec Sh\u00ec) ist eine Stadt mit knapp 90.000 Einwohnern in der Republik China auf Taiwan. Sie ist Hauptstadt des Landkreises Miaoli.",
+          "qas": [
+            {
+              "id": "d436fa739423f2c2aeabf1ca6a1ea0d525823bad",
+              "question": "Miaoli City is located in what country?",
+              "answers": [
+                {
+                  "text": "Taiwan",
+                  "answer_start": 112
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Ab 1737 wurde die Region von Einwanderern vom chinesischen Festland besiedelt, \u00fcberwiegend Hakka aus der Provinz Guangdong. Bis heute haben die Hakka einen hohen Anteil an der Bev\u00f6lkerung Miaolis, die Stadt ist eines ihrer Zentren in Taiwan.",
+          "qas": [
+            {
+              "id": "2f0d6ff162619164bb113c0cadbcca06a50d2e5b",
+              "question": "What type of people in does Miaoli have a high percentage of?",
+              "answers": [
+                {
+                  "text": "Hakka",
+                  "answer_start": 144
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Der Stern ist eingebettet in den sogenannten Pistolennebel, der seinen Namen aufgrund der \u00c4hnlichkeit der Form mit einer Pistole hat. Es ist ein planetarischer Nebel, der im Wesentlichen aus vom Pistolenstern bei heftigen Eruptionen vor 4000 bis 6000 Jahren ausgesto\u00dfener Materie besteht, die von ihm zum Leuchten angeregt wird. Die Masse des Nebels wird auf etwa 10 Sonnenmassen gesch\u00e4tzt.",
+          "qas": [
+            {
+              "id": "a352b36d38a9cfda6f3b5be0ebbb164f5924ac7d",
+              "question": "When did the star have a giant outburst of material?",
+              "answers": [
+                {
+                  "text": "vor 4000 bis 6000 Jahren",
+                  "answer_start": 233
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Laut der Volksz\u00e4hlung im Jahr 2000 lebten im Hampshire County 152.251 Einwohner in 55.991 Haushalten und 33.818 Familien. Die Bev\u00f6lkerung setzte sich aus 91,10 Prozent Wei\u00dfen, 1,96 Prozent Afroamerikanern, 3,40 Prozent Asiaten und 0,19 Prozent amerikanischen Ureinwohnern zusammen. 3,42 Prozent der Bev\u00f6lkerung waren spanischer oder lateinamerikanischer Abstammung. Das Prokopfeinkommen betrug 21.685 US-Dollar; 5,1 Prozent der Familien sowie 9,4 Prozent der Bev\u00f6lkerung lebten unter der Armutsgrenze.",
+          "qas": [
+            {
+              "id": "1d5e8a9c2cbf0cfddb55ddaa5d466b37acffbb65",
+              "question": "How many people were there in the census of 2000?",
+              "answers": [
+                {
+                  "text": "152.251",
+                  "answer_start": 62
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "W\u00e4hrend der Revolution kam es zu einer Spaltung zwischen der Magdiwang-Fraktion, die Bonifacio nahestand, und der Magdalo-Fraktion des Generals Emilio Aguinaldo aus Cavite, einem Spross aus einer wohlhabenden Politikerfamilie.",
+          "qas": [
+            {
+              "id": "41bc971a15d264019480216ce8e9bcd6879475c6",
+              "question": "What groups where split?",
+              "answers": [
+                {
+                  "text": "Magdiwang-Fraktion, die Bonifacio nahestand, und der Magdalo-Fraktion",
+                  "answer_start": 61
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Zehn Jahre sp\u00e4ter wurde ein neues Flughafengeb\u00e4ude in Betrieb genommen. Es folgten 2001 ein neues Frachtgeb\u00e4ude und 2002 der heutige Tower. 2002 gewann das steirische Architekturb\u00fcro Pittino & Ortner den Wettbewerb f\u00fcr die Erweiterung des Fluggastgeb\u00e4udes, welches 2005 in Betrieb genommen wurde. Im Zuge des Baus der Koralmbahn soll weiters ein im Flughafengeb\u00e4ude integrierter unterirdischer Bahnhof (sowohl f\u00fcr den Nah- als auch f\u00fcr den Fernverkehr) den Anschluss vom Flughafen Graz an das \u00f6ffentliche Verkehrssystem entscheidend verbessern.",
+          "qas": [
+            {
+              "id": "ac121219c2fe687cc1f8b4049b3aaa4ef90e286c",
+              "question": "When was second terminal built?",
+              "answers": [
+                {
+                  "text": "2005",
+                  "answer_start": 265
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Wilhelm Eugen wuchs in Carlsruhe, einem Jagdbesitzes seines Vaters in Schlesien auf. Er studierte in T\u00fcbingen. 1866 trat er als Leutnant in die W\u00fcrttembergische Armee ein. Mit dem 3. Reiterregiment nahm er im Krieg gegen Preu\u00dfen am Gefecht bei Gochsheim teil.",
+          "qas": [
+            {
+              "id": "efd7341f6593797e60b60cf97a543faef0c8fed1",
+              "question": "Where did Duke Eugen grow up?",
+              "answers": [
+                {
+                  "text": "Carlsruhe,",
+                  "answer_start": 23
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Wilhelm Eugen wuchs in Carlsruhe, einem Jagdbesitzes seines Vaters in Schlesien auf. Er studierte in T\u00fcbingen. 1866 trat er als Leutnant in die W\u00fcrttembergische Armee ein. Mit dem 3. Reiterregiment nahm er im Krieg gegen Preu\u00dfen am Gefecht bei Gochsheim teil.",
+          "qas": [
+            {
+              "id": "987350aa2fe9763ec101f31488a1c6e0784e7856",
+              "question": "Where did Duke Eugen study?",
+              "answers": [
+                {
+                  "text": "studierte in T\u00fcbingen.",
+                  "answer_start": 88
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "1846 wurde der Name der Schule in Madison University ge\u00e4ndert. Als 1850 aufgrund eines Rechtsstreites der Versuch scheiterte, die Madison University nach Rochester zu verlegen, gr\u00fcndeten dort nonkonformistische Treuh\u00e4nder, Dozenten und Studenten eine eigene Universit\u00e4t, die University of Rochester.Nachdem die Colgate-Familie die Madison University sieben Jahrzehnte unterst\u00fctzt hatte, \u00e4nderte man den Namen 1890 zu Ehren von William Colgate und seinen S\u00f6hnen. James Boorman Colgate sicherte mit der Gr\u00fcndung des Dodge Memorial Fund (Grundkapital 1.000.000 US-Dollar) die finanzielle Basis der Universit\u00e4t. 1928 fusionierte der theologische Zweig der Colgate University mit dem Rochester Theological Seminary zur Colgate Rochester Divinity School. Die Colgate wurde damit frei von politischen und konfessionellen Einfl\u00fcssen.",
+          "qas": [
+            {
+              "id": "8fa68365aeebf84e24f8281db84f77ce5bb7fc6b",
+              "question": "After combining with the Rochester Theological Seminary, what did Colgate's theological side turn into?",
+              "answers": [
+                {
+                  "text": "Colgate Rochester Divinity School.",
+                  "answer_start": 714
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "1846 wurde der Name der Schule in Madison University ge\u00e4ndert. Als 1850 aufgrund eines Rechtsstreites der Versuch scheiterte, die Madison University nach Rochester zu verlegen, gr\u00fcndeten dort nonkonformistische Treuh\u00e4nder, Dozenten und Studenten eine eigene Universit\u00e4t, die University of Rochester.Nachdem die Colgate-Familie die Madison University sieben Jahrzehnte unterst\u00fctzt hatte, \u00e4nderte man den Namen 1890 zu Ehren von William Colgate und seinen S\u00f6hnen. James Boorman Colgate sicherte mit der Gr\u00fcndung des Dodge Memorial Fund (Grundkapital 1.000.000 US-Dollar) die finanzielle Basis der Universit\u00e4t. 1928 fusionierte der theologische Zweig der Colgate University mit dem Rochester Theological Seminary zur Colgate Rochester Divinity School. Die Colgate wurde damit frei von politischen und konfessionellen Einfl\u00fcssen.",
+          "qas": [
+            {
+              "id": "54368bb823baadc805d6f571e9e2aedbf8a422c0",
+              "question": "What was the name of Colgate University in 1846?",
+              "answers": [
+                {
+                  "text": "Madison University",
+                  "answer_start": 34
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die Newsweek bezeichnete 2006 die Colgate als eine der neuen Eliteuniversit\u00e4ten der USA. Sie ist auf der Liste der einhundert besten Hochschulen f\u00fcr homo- und bisexuelle Studierende. Im Oktober 2006 wurde die Colgate auf Platz 2 der sportlichsten Colleges in Amerika gew\u00e4hlt. Der Campus gilt als einer der sch\u00f6nsten des Landes und erwarb 2005 den f\u00fcnften Platz der \u201eStudentsReview\u201c-Umfrage. Im \u201eJournal of Blacks in Higher Education\u201c belegte es den dritten Platz bei der Bewertung des Erfolges bei der Integration von afroamerikanischen Studenten.",
+          "qas": [
+            {
+              "id": "11aef833126d5ddb1462c2efb08e5d176f9020b7",
+              "question": "The number 1 Princeton ranked college in 2014 was which college?",
+              "answers": [
+                {
+                  "text": "Colgate",
+                  "answer_start": 34
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die Newsweek bezeichnete 2006 die Colgate als eine der neuen Eliteuniversit\u00e4ten der USA. Sie ist auf der Liste der einhundert besten Hochschulen f\u00fcr homo- und bisexuelle Studierende. Im Oktober 2006 wurde die Colgate auf Platz 2 der sportlichsten Colleges in Amerika gew\u00e4hlt. Der Campus gilt als einer der sch\u00f6nsten des Landes und erwarb 2005 den f\u00fcnften Platz der \u201eStudentsReview\u201c-Umfrage. Im \u201eJournal of Blacks in Higher Education\u201c belegte es den dritten Platz bei der Bewertung des Erfolges bei der Integration von afroamerikanischen Studenten.",
+          "qas": [
+            {
+              "id": "aa112dfbf121b0ee6724e5b8a9b5a1ccb7b3da49",
+              "question": "What ranking is Colgate?",
+              "answers": [
+                {
+                  "text": "dritten",
+                  "answer_start": 449
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die Newsweek bezeichnete 2006 die Colgate als eine der neuen Eliteuniversit\u00e4ten der USA. Sie ist auf der Liste der einhundert besten Hochschulen f\u00fcr homo- und bisexuelle Studierende. Im Oktober 2006 wurde die Colgate auf Platz 2 der sportlichsten Colleges in Amerika gew\u00e4hlt. Der Campus gilt als einer der sch\u00f6nsten des Landes und erwarb 2005 den f\u00fcnften Platz der \u201eStudentsReview\u201c-Umfrage. Im \u201eJournal of Blacks in Higher Education\u201c belegte es den dritten Platz bei der Bewertung des Erfolges bei der Integration von afroamerikanischen Studenten.",
+          "qas": [
+            {
+              "id": "f993f1ad21ff9e60ac5078ced21a06d39e88d1d4",
+              "question": "What list is Colgate on?",
+              "answers": [
+                {
+                  "text": "Liste der einhundert besten Hochschulen f\u00fcr homo- und bisexuelle Studierende.",
+                  "answer_start": 105
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die Curtiss P-36 Hawk, auch bekannt als Hawk Model 75, war ein US-amerikanisches Jagdflugzeug von Curtiss-Wright. Sie war mit knapp 1100 gebauten Flugzeugen ein bedeutender wirtschaftlicher Erfolg f\u00fcr den Hersteller, bis dieser 1939 parallel mit der Serienproduktion des Nachfolgers Curtiss P-40 begann. Der Buchstabe \u201eP\u201c war im damaligen Bezeichnungssystem f\u00fcr Flugzeuge der US-Streitkr\u00e4fte f\u00fcr J\u00e4ger (Pursuit) reserviert.",
+          "qas": [
+            {
+              "id": "60d5eb8e45bfddb0fae7f0a2f4bae7cde22d953c",
+              "question": "How many aircrafts did Curtiss build?",
+              "answers": [
+                {
+                  "text": "knapp 1100",
+                  "answer_start": 126
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die Model 75 wurde von Curtiss-Wright in Eigeninitiative entwickelt. Chefingenieur Donovan Berlin, ein ehemaliger Northrop-Mitarbeiter, konstruierte das Flugzeug im Jahr 1934. Der erste Prototyp war eine Ganzmetallkonstruktion mit stoffbespannten Steuerfl\u00e4chen, besa\u00df einen 14-Zylinder-Doppelsternmotor Wright XR-1670-5 mit 900 PS (671 kW) Leistung und eine f\u00fcr das USAAC typische Bewaffnung mit zwei durch den Propellerkreis feuernden (synchronisierten) Maschinengewehren der Kaliber 7,62 mm (.30 AN/M2) und 12,7 mm (M2). Ebenso typisch f\u00fcr die Zeit waren das Fehlen einer Panzerung oder selbstabdichtender Treibstofftanks. Das nach hinten einziehbare Hauptfahrwerk, dessen R\u00e4der beim Einfahren um 90 Grad gedreht wurden, damit sie nicht \u00fcber die Fl\u00e4chenunterseite herausragten, war eine Lizenzkonstruktion von Boeing.",
+          "qas": [
+            {
+              "id": "d3454682bd1d04b5f956035bc41ea978a716d434",
+              "question": "In what year was the first prototype of Curtiss Model 75 constructed?",
+              "answers": [
+                {
+                  "text": "1934.",
+                  "answer_start": 170
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Das Vergleichsfliegen fand dann im April 1936 statt. Ungl\u00fccklicherweise lieferte der neue Motor nicht seine Nennleistung und das Flugzeug erreichte nur 460 km/h. Sieger wurde trotz ihrer unterdurchschnittlichen Leistung und dem h\u00f6heren Kaufpreis die Konkurrentin Seversky P-35. Seversky wurde ein Auftrag \u00fcber 77 Flugzeuge erteilt. Am 16. Juni 1936 erhielt Curtiss jedoch einen Auftrag des USAAC \u00fcber drei Prototypen mit der Bezeichnung Y1P-36. Besorgnis \u00fcber die politische Lage in Europa und die mangelnde Termintreue Severskys bei der Lieferung der P-35 f\u00fchrten dazu, dass das USAAC ein Ersatzjagdflugzeug forderte. Die Y1P-36 (Model 75E) wurde von einem Pratt & Whitney R-1830-13 Twin-Wasp-Sternmotor mit 900 PS (671 kW) angetrieben. Die Einbuchtung im hinteren Teil des Rumpfs wurde um ein Kabinenfenster erweitert. Die Truppenerprobung verlief so erfolgreich, dass Curtiss am 7. Juli 1937 einen Auftrag \u00fcber 210 P-36A erhielt. Der Lieferpreis betrug 4.113.550 US-Dollar, f\u00fcr diese Zeit eine gewaltige Summe.",
+          "qas": [
+            {
+              "id": "ec2573aabf901162d09a33796a72cc6e25e06d2a",
+              "question": "What year did the prototype finally fly?",
+              "answers": [
+                {
+                  "text": "1936",
+                  "answer_start": 41
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Anfang des Jahres 1937 bekam Curtiss vom USAAC den Auftrag, eine P-36 mit dem neuen fl\u00fcssigkeitsgek\u00fchlten 12-Zylinder-V-Motor Allison V-1710 mit Turbolader und einer Leistung von 1150 PS (858 kW) auszur\u00fcsten. F\u00fcr die XP-37 wurde die Originalflugzeugzelle des Modells 75 verwendet. Die K\u00fchler wurden zu beiden Seiten des Rumpfs montiert. Um die richtige Schwerpunktlage zu erreichen und um Platz f\u00fcr die K\u00fchler zu schaffen, wurde das Cockpit weiter nach hinten versetzt. Beim Erstflug im April 1937 konnte eine Geschwindigkeit von 547 km/h in einer H\u00f6he von 6100 m erreicht werden. Das USAAC war von der zugesagten Leistung so fasziniert, dass trotz des h\u00f6chst unzuverl\u00e4ssigen Turboladers und einer Sicht aus dem Cockpit, die bei Start und Landung gleich Null war, 13 Vorserien YP-37 bestellt wurden. Der Erstflug erfolgte im Juni 1939 mit einer verbesserten Aerodynamik und einem zuverl\u00e4ssigeren Turbolader. Allerdings blieb der Motor unzuverl\u00e4ssig und das Projekt wurde zugunsten einer anderen Curtiss-Konstruktion, der P-40, gestrichen.",
+          "qas": [
+            {
+              "id": "df80902d85751e078fbc9d96b2908a41565b630a",
+              "question": "In what year did the improved aircraft first flew?",
+              "answers": [
+                {
+                  "text": "1939",
+                  "answer_start": 830
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die ersten produzierten P-36A gingen im April 1938 an die 20th Pursuit Group in Barksdale Field in Louisiana. Der Flugbetrieb litt unter zahlreichen Kinderkrankheiten; es gab Schwierigkeiten mit dem Auspuffsystem, Verwerfungen im Fahrwerksschacht sowie an bestimmten Stellen des Rumpfes aufgrund von Festigkeitsproblemen der Zelle. Viele Monate konnte nur mit Einschr\u00e4nkungen geflogen werden. Kaum waren alle Probleme gel\u00f6st, galt die P-36 als veraltet und wurde an Ausbildungseinheiten oder an Einheiten in \u00dcbersee abgegeben. Einen kurzen ruhmreichen Auftritt hatte die P-36 w\u00e4hrend des Angriffs auf Pearl Harbor am 7. Dezember 1941. Vier von 39 dort stationierten P-36 konnten starten und schossen zwei japanische Nakajima-B5N-Bomber ab. Leutnant G. H. Sterling erzielte dabei den ersten US-Luftsieg im Zweiten Weltkrieg. Dies blieb der einzige Kampfeinsatz der P-36 auf Seiten des USAAC. Im M\u00e4rz 1942 wurden zehn USAAC P-36A nach Brasilien \u00fcberf\u00fchrt.",
+          "qas": [
+            {
+              "id": "6fc9c4dac83f35f2cce4a2ac568134f8abd0f00d",
+              "question": "When were they transferred?",
+              "answers": [
+                {
+                  "text": "M\u00e4rz 1942",
+                  "answer_start": 894
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Auch Norwegen bestellte 24 vom Twin Wasp angetriebene Hawk 75A-6, von denen zum Zeitpunkt der deutschen Invasion in Norwegen 19 geliefert und sieben montiert waren. Keines der Flugzeuge war einsatzf\u00e4hig. Die zerlegten Flugzeuge wurden von einem Zollangestellten \u2013 der die Instrumente zertr\u00fcmmerte und alle Kabel, die er erreichen konnte, durchschnitt \u2013 unbrauchbar gemacht. Von den Deutschen erbeutete norwegische Hawks waren Teil jener Charge, die nach Finnland geschickt wurde. Des Weiteren bestellte Norwegen 36 vom Wright-Cyclone-Motor angetriebene Hawk 75A-8, von denen die meisten an einen norwegischen Trainingsst\u00fctzpunkt (von der norwegischen Exilregierung in London als Kleinnorwegen gegr\u00fcndet) nahe Toronto in Kanada geliefert wurden. Dort wurden sie als Fortgeschrittenentrainer genutzt. Im Jahr 1943 rief die USAAF sie zur\u00fcck; einige wurden an Curtiss und der Rest nach Peru verkauft.",
+          "qas": [
+            {
+              "id": "d3f58ba37d2b286260914d2463c41251e1b9ef08",
+              "question": "How many employees did it take to disable the aircraft?",
+              "answers": [
+                {
+                  "text": "einem Zollangestellten",
+                  "answer_start": 239
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Auch Norwegen bestellte 24 vom Twin Wasp angetriebene Hawk 75A-6, von denen zum Zeitpunkt der deutschen Invasion in Norwegen 19 geliefert und sieben montiert waren. Keines der Flugzeuge war einsatzf\u00e4hig. Die zerlegten Flugzeuge wurden von einem Zollangestellten \u2013 der die Instrumente zertr\u00fcmmerte und alle Kabel, die er erreichen konnte, durchschnitt \u2013 unbrauchbar gemacht. Von den Deutschen erbeutete norwegische Hawks waren Teil jener Charge, die nach Finnland geschickt wurde. Des Weiteren bestellte Norwegen 36 vom Wright-Cyclone-Motor angetriebene Hawk 75A-8, von denen die meisten an einen norwegischen Trainingsst\u00fctzpunkt (von der norwegischen Exilregierung in London als Kleinnorwegen gegr\u00fcndet) nahe Toronto in Kanada geliefert wurden. Dort wurden sie als Fortgeschrittenentrainer genutzt. Im Jahr 1943 rief die USAAF sie zur\u00fcck; einige wurden an Curtiss und der Rest nach Peru verkauft.",
+          "qas": [
+            {
+              "id": "c8e508fac6759d7e4397de917dc5930b68efcfa6",
+              "question": "WHERE WERE THE MOST OF THE  CYCLONE-POWERED HAWK 75A-8'S SENT?",
+              "answers": [
+                {
+                  "text": "als Kleinnorwegen gegr\u00fcndet) nahe Toronto in Kanada",
+                  "answer_start": 675
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Das Model 75H mit starrem Fahrgestell wurde von Curtiss f\u00fcr den Einsatz auf unvorbereiteten Pisten und wegen des geringeren Wartungsaufwands entwickelt. Die Vorf\u00fchrmaschine wurde im Jahr 1937 schlie\u00dflich von der chinesischen Nationalregierung gekauft. Ein weiteres Vorf\u00fchrmodell, die Hawk 75Q mit einziehbarem Fahrwerk, wurde von Madame Chiang Kai-shek an Claire Lee Chennault, den Kommandeur der in China eingesetzten American Volunteer Group, \u00fcbergeben. Einige Hawk 75M wurden von China mit offenbar geringem Erfolg gegen die Japaner eingesetzt. Mehrere Hawk 75N wurden von Siam beim Feldzug gegen Franz\u00f6sisch-Indochina (zwei nicht best\u00e4tigte Absch\u00fcsse von franz\u00f6sischen MS.406-J\u00e4gern) und im vergeblichen Kampf gegen die japanischen Streitkr\u00e4fte eingesetzt. Argentinien erwarb einige vereinfachte Hawk 75O und eine Fertigungslizenz f\u00fcr diesen Typ. Hierauf wurden ab dem Jahr 1940 200 Flugzeuge hergestellt. Die argentinischen Hawks blieben bis 1954 im aktiven Dienst. Einzelne davon wurden von hochrangigen argentinischen Offizieren bis in die 1960er-Jahre in Betrieb gehalten.",
+          "qas": [
+            {
+              "id": "efc35cd5761addb7384576a56272191edc22d5da",
+              "question": "When did the last Argentinian Hawks reach the end of their service?",
+              "answers": [
+                {
+                  "text": "1954",
+                  "answer_start": 947
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Model 75H \u2013 interne Bezeichnung f\u00fcr eine vereinfachte Exportversion mit festem Fahrwerk; zwei geringf\u00fcgig unterschiedliche Flugzeuge wurden gebaut \u2013 das erste wurde an China verkauft, das zweite an Argentinien",
+          "qas": [
+            {
+              "id": "5bb0258741ec3ae3fb1b5f06e026864b55b68589",
+              "question": "What country was sold to first?",
+              "answers": [
+                {
+                  "text": "China",
+                  "answer_start": 168
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Model 75P \u2013 Serien-P-36A (Seriennummer 38-010), mit fl\u00fcssigkeitsgek\u00fchltem Allison-V-1710-Motor ausger\u00fcstet, Prototyp f\u00fcr die Curtiss P-40",
+          "qas": [
+            {
+              "id": "36c279ff4f72aef9ded3525a87d0e68513520b31",
+              "question": "In which serial number was the P-36A in?",
+              "answers": [
+                {
+                  "text": "38-010",
+                  "answer_start": 39
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Hawk 75A-5 \u2013 unter Lizenz in China gebaut (Produktion wurde sp\u00e4ter nach Indien verlagert), in die RAF als Mohawk IV \u00fcbernommen",
+          "qas": [
+            {
+              "id": "4dc8e2dc6c8c86dbc60d2f08e07fcd6f66c27f69",
+              "question": "What British aircraft was originally intended to be made in China,  but was produced in India instead?",
+              "answers": [
+                {
+                  "text": "Hawk 75A-5",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "1998 ver\u00f6ffentlichte Dion unter dem Titel S\u2019il suffisait d\u2019aimer ein weiteres franz\u00f6sisches Album, das wie schon D\u2019eux von Jean-Jacques Goldman geschrieben wurde. Obwohl es weltweit etwa vier Millionen Mal verkauft wurde, beschr\u00e4nkte sich der Erfolg weitgehend auf franz\u00f6sischsprachige L\u00e4nder. Viele der Hit-Singles Dions aus den 90er Jahren wurden von der vor allem f\u00fcr ihre Balladen bekannten Diane Warren geschrieben. Dion bet\u00e4tigte sich auch als Song- und Co-Writer, beispielsweise bei ihrem Lied Don\u2019t Save It All for Christmas Day aus dem 1998 erschienenen Weihnachtsalbum These Are Special Times. In dem Zeichentrickfilm Quest for Camelot ist der f\u00fcr den Oscar nominierte Titel The Prayer, ein Duett mit Andrea Bocelli zu h\u00f6ren. Erfolgreichste Single des Albums wurde der Titel I\u2019m Your Angel, ein Duett mit R. Kelly, das sechs Wochen lang an der Spitze der amerikanischen Charts stand.",
+          "qas": [
+            {
+              "id": "f5fe352e4b4945e38e318c77270a7d433999eab3",
+              "question": "What single was popular on the album?",
+              "answers": [
+                {
+                  "text": "I\u2019m Your Angel,",
+                  "answer_start": 785
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Das Schiehallion-Experiment war ein Experiment zur Bestimmung der mittleren Massendichte der Erde. Mit finanzieller Unterst\u00fctzung durch die Royal Society wurde es im Sommer des Jahres 1774 in der Gegend des Berges Schiehallion durchgef\u00fchrt. Das Experiment umfasste die Messung der geringf\u00fcgigen Lotabweichung im Schwerefeld der Erde aufgrund der gravitativen Anziehung des Berges. Der Schiehallion wurde wegen seiner isolierten Lage und nahezu symmetrischen Form als f\u00fcr diese Messung geeignet erachtet. Ansto\u00df f\u00fcr das Experiment war unter anderem die Beobachtung von Schwereanomalien bei der Untersuchung der Mason-Dixon-Linie.",
+          "qas": [
+            {
+              "id": "cf206d7c8c63bda881780ce7f7d7ccaa5f7e1c33",
+              "question": "What was the Schiehallion experiment trying to accomplish?",
+              "answers": [
+                {
+                  "text": "Bestimmung der mittleren Massendichte der Erde.",
+                  "answer_start": 51
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Das Schiehallion-Experiment war ein Experiment zur Bestimmung der mittleren Massendichte der Erde. Mit finanzieller Unterst\u00fctzung durch die Royal Society wurde es im Sommer des Jahres 1774 in der Gegend des Berges Schiehallion durchgef\u00fchrt. Das Experiment umfasste die Messung der geringf\u00fcgigen Lotabweichung im Schwerefeld der Erde aufgrund der gravitativen Anziehung des Berges. Der Schiehallion wurde wegen seiner isolierten Lage und nahezu symmetrischen Form als f\u00fcr diese Messung geeignet erachtet. Ansto\u00df f\u00fcr das Experiment war unter anderem die Beobachtung von Schwereanomalien bei der Untersuchung der Mason-Dixon-Linie.",
+          "qas": [
+            {
+              "id": "00b27daf07401be595bc051e38749ad5ded08059",
+              "question": "What made Schiehallion an ideal location?",
+              "answers": [
+                {
+                  "text": "isolierten Lage und nahezu symmetrischen Form",
+                  "answer_start": 417
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Das Experiment wurde zuvor von Isaac Newton als m\u00f6glicher experimenteller Beweis f\u00fcr seine Gravitationstheorie erwogen, jedoch von ihm sp\u00e4ter wieder verworfen. Dennoch war eine Gruppe von Wissenschaftlern, darunter vor allem der britische Hofastronom Nevil Maskelyne, davon \u00fcberzeugt, dass der Effekt messbar sei, und nahm sich die Durchf\u00fchrung des Versuches vor. Der Ablenkungswinkel hing von den relativen Dichten und Rauminhalten der Erde und des Berges ab: Durch die Bestimmung der Dichte und des Volumens des Schiehallion konnte somit ebenfalls die Dichte der Erde bestimmt werden. Mit der Kenntnis der Dichte der Erde konnten wiederum ungef\u00e4hre Werte f\u00fcr die Dichten der \u00fcbrigen Planeten, ihrer Monde sowie der Sonne errechnet werden, welche zuvor lediglich in ihren relativen Verh\u00e4ltnissen bekannt waren. Dar\u00fcber hinaus wurde zur Vereinfachung der Vermessung des Berges das Konzept der Isolinie erfunden, welches sich sp\u00e4ter zu einer Standardmethode der Kartografie entwickelte.",
+          "qas": [
+            {
+              "id": "71dca30d8874806e9bbb6dc49bdf0283ab5b1d53",
+              "question": "Who was one of the scientists on the team?",
+              "answers": [
+                {
+                  "text": "Nevil Maskelyne",
+                  "answer_start": 251
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Ein Lot h\u00e4ngt in einem symmetrischen Schwerefeld geradlinig nach unten. Befindet sich jedoch eine gen\u00fcgend gro\u00dfe Masse wie beispielsweise ein Berg in der N\u00e4he, wird das Lot durch dessen gravitative Anziehung leicht von der sonst eingenommenen Position abweichen. Die \u00c4nderung der Lotrichtung relativ zu einem gegebenen Objekt \u2013 beispielsweise einem Stern \u2013 wird auf zwei einander gegen\u00fcberliegenden Seiten des Berges sorgf\u00e4ltig vermessen. Die Masse des Berges wird in einer unabh\u00e4ngigen Messung durch die Bestimmung seines Volumens und einer Absch\u00e4tzung der mittleren Dichte seines Gesteins ermittelt. Nun k\u00f6nnen diese Werte verwendet werden, um die Dichte der Erde und damit ihre Masse zu bestimmen.",
+          "qas": [
+            {
+              "id": "8e6b08ba717a4c1b78850bb6586aa01a488c9ab0",
+              "question": "What happens to a pendulum when a large mass is nearby?",
+              "answers": [
+                {
+                  "text": "wird das Lot durch dessen gravitative Anziehung leicht von der sonst eingenommenen Position abweichen.",
+                  "answer_start": 160
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die beiden franz\u00f6sischen Astronomen Pierre Bouguer und Charles Marie de La Condamine unternahmen als erste einen Versuch zur Durchf\u00fchrung des Experiments. Sie f\u00fchrten im Jahre 1738 ihre Messungen am 6310 m hohen Vulkan Chimborazo in Ecuador aus.a Im Jahre 1735 verlie\u00dfen sie mit ihrer Expedition Frankreich auf dem Weg nach S\u00fcdamerika. Eigentliches Ziel war die Vermessung eines Meridianbogens mit einer Ausdehnung von einem Grad in geografischer L\u00e4nge in der N\u00e4he des \u00c4quators. Sie nutzten jedoch die Gelegenheit, um ebenfalls das Ablenkungsexperiment durchzuf\u00fchren. Trotz widriger Bedingungen hinsichtlich des Gel\u00e4ndes und Klimas f\u00fchrten sie im Dezember des Jahres 1738 zwei Messungen in H\u00f6hen von 4680 und 4340 m durch. Bouguer schrieb in einer Arbeit von 1749, dass sie eine Ablenkung von 8 Bogensekunden messen konnten; jedoch sch\u00e4tzte er die Aussagekraft ihrer Ergebnisse als gering ein und schlug vor, dass das Experiment unter g\u00fcnstigeren Bedingungen in Frankreich oder England wiederholt werden solle. Er f\u00fcgte hinzu, dass der Versuch wenigstens gezeigt habe, dass die Erde nicht hohl sein k\u00f6nne, wie einige Gelehrte jener Zeit vorschlugen, unter ihnen Edmond Halley.",
+          "qas": [
+            {
+              "id": "6859c400aa473f17da3b676fab1fd050d438358c",
+              "question": "What altitudes did they conduct the measurements at?",
+              "answers": [
+                {
+                  "text": "4680 und 4340",
+                  "answer_start": 700
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Auf der Nord- und S\u00fcdseite des Berges wurden Observatorien errichtet, zudem eine H\u00fctte als Unterbringung f\u00fcr die Wissenschaftler und die Ausr\u00fcstung.c Die Arbeiter wohnten hingegen haupts\u00e4chlich in einfachen Zelten. Zuerst wurden Maskelynes astronomische Messungen durchgef\u00fchrt. Er musste die Poldistanz im Vergleich zur Lotrichtung f\u00fcr verschiedene Sterne zu der genauen Zeit vermessen, zu der sie in S\u00fcdrichtung standen. Die Witterungsbedingungen waren aufgrund von Nebel und Regen h\u00e4ufig ung\u00fcnstig. Dennoch konnte er vom s\u00fcdlichen Observatorium aus 76 Messungen an 34 Sternen in einer der beiden Richtungen sowie 93 an 39 Sternen in der anderen durchf\u00fchren. Auf der Nordseite f\u00fchrte er 68 Beobachtungen an 32 Sternen beziehungsweise 100 an 37 Sternen durch. Indem er die bewegliche Achse des Zenitteleskops abwechselnd nach Osten und Westen richtete, konnte er systematische Abweichungen durch etwaige Kollimationsfehler erfolgreich vermeiden.Um die durch den Berg entstehende Ablenkung zu bestimmen, war es notwendig, auch die Kr\u00fcmmung der Erdoberfl\u00e4che miteinzubeziehen: F\u00fcr den Beobachter \u00e4ndert sich der lokale Zenit wie der Breitengrad, auf dem er sich befindet. Nachdem er weitere Effekte wie Pr\u00e4zession, Aberration und Nutation ber\u00fccksichtigt hatte, zeigte Maskelyne, dass die Differenz zwischen dem lokal bestimmten Zenit bei der Beobachtung n\u00f6rdlich und s\u00fcdlich des Schiehallion 54,6 Bogensekunden betrug. Bei der Land-Vermessung ergab sich f\u00fcr die zwei Beobachtungsstationen eine Differenz von 42,94 Bogensekunden im Breitengrad, sodass er als Summe der Ablenkungen s\u00fcdlich und n\u00f6rdlich einen Winkel von 11,6 Bogensekunden vermeldete.Seine ersten Ergebnisse ver\u00f6ffentlichte Maskelyne in den Philosophical Transactions of the Royal Society des Jahres 1775, wobei er f\u00fcr die Form des Berges und damit f\u00fcr seinen Schwerpunkt vorl\u00e4ufige Daten verwendete. Er folgerte, dass eine Ablenkung von 20,9 Bogensekunden zu erwarten sei, falls die mittleren Dichten des Schiehallion und der Erde gleich w\u00e4ren. Da die tats\u00e4chliche Ablenkung ungef\u00e4hr der H\u00e4lfte dieses Wertes entsprach, konnte er die mittlere Dichte der Erde zu ungef\u00e4hr dem doppelten Wert von jener des Schiehallion absch\u00e4tzen. Ein genauerer Wert konnte erst nach Abschluss der Vermessungs-Arbeiten am Berg bestimmt werden.Maskelyne wies darauf hin, dass das Experiment eindeutig gezeigt habe, dass vom Schiehallion eine gravitative Anziehung ausgehe und dies f\u00fcr alle Berge gelten m\u00fcsse. Newtons Gravitationsgesetz sei damit best\u00e4tigt worden. Als Anerkennung f\u00fcr seine Verdienste verlieh die Royal Society Maskelyne im Jahr 1775 die Copley-Medaille. Sein Biograph Alexander Chalmers schrieb sp\u00e4ter, dass falls noch irgendwelche Zweifel an der Wahrheit des newtonschen Systems bestanden haben, diese nun vollst\u00e4ndig ausger\u00e4umt seien.",
+          "qas": [
+            {
+              "id": "035997b1563790fa1ea9c6f7a7f09f30797113e7",
+              "question": "Where was the observatory built?",
+              "answers": [
+                {
+                  "text": "Berges",
+                  "answer_start": 31
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Ein zum Schiehallion-Experiment vergleichbares Experiment wurde im Jahr 1856 von Henry James durchgef\u00fchrt, dem Generaldirektor der Landesvermessungs-Beh\u00f6rde Gro\u00dfbritanniens (Ordnance Survey). Dieses Experiment fand an Arthur\u2019s Seat in Edinburgh statt. Mithilfe der von der Ordnance Survey bereitgestellten Mittel konnte James seine Landvermessung bis zu einem Radius von 21 Kilometern um den Berg herum ausweiten. Er erhielt f\u00fcr die Dichte einen Wert von etwa 5300 kg\u00b7m\u22123.In einem Experiment aus dem Jahr 2005 wurde eine abgewandelte Form des Experiments von 1774 angewendet: Anstatt Differenzen im lokalen Zenit zu bestimmen, wurden die Schwingungsdauern eines Pendels auf dem Schiehallion und an seinem Fu\u00dfe sehr genau miteinander verglichen. Die Schwingungsdauer eines Pendels h\u00e4ngt von der Schwerkraft ab, also der lokalen Gravitationsbeschleunigung. Man erwartet, dass das Pendel in der h\u00f6heren Position langsamer schwingt, wobei die Masse des Berges diesen Effekt jedoch verringert. Diese Form des Versuchs hat den Vorteil, dass sie erheblich einfacher in der Durchf\u00fchrung ist als jene aus dem Jahr 1774. Um jedoch die gew\u00fcnschte Messgenauigkeit zu erreichen, muss die Schwingungsdauer des Pendels hierbei mit einer relativen Genauigkeit von einem Millionstel gemessen werden. Dieser Versuch lieferte 8,1 \u00b1 2,4\u00b71024 kg als Wert f\u00fcr die Erdmasse, was einer mittleren Dichte von 7500 \u00b1 1900 kg\u00b7m\u22123 entspricht.f",
+          "qas": [
+            {
+              "id": "d4fee66264ff7078692ac2f61d9eac2e8a4ef609",
+              "question": "who was repeated the experiment to check the density of earth?",
+              "answers": [
+                {
+                  "text": "Henry James",
+                  "answer_start": 81
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Ein zum Schiehallion-Experiment vergleichbares Experiment wurde im Jahr 1856 von Henry James durchgef\u00fchrt, dem Generaldirektor der Landesvermessungs-Beh\u00f6rde Gro\u00dfbritanniens (Ordnance Survey). Dieses Experiment fand an Arthur\u2019s Seat in Edinburgh statt. Mithilfe der von der Ordnance Survey bereitgestellten Mittel konnte James seine Landvermessung bis zu einem Radius von 21 Kilometern um den Berg herum ausweiten. Er erhielt f\u00fcr die Dichte einen Wert von etwa 5300 kg\u00b7m\u22123.In einem Experiment aus dem Jahr 2005 wurde eine abgewandelte Form des Experiments von 1774 angewendet: Anstatt Differenzen im lokalen Zenit zu bestimmen, wurden die Schwingungsdauern eines Pendels auf dem Schiehallion und an seinem Fu\u00dfe sehr genau miteinander verglichen. Die Schwingungsdauer eines Pendels h\u00e4ngt von der Schwerkraft ab, also der lokalen Gravitationsbeschleunigung. Man erwartet, dass das Pendel in der h\u00f6heren Position langsamer schwingt, wobei die Masse des Berges diesen Effekt jedoch verringert. Diese Form des Versuchs hat den Vorteil, dass sie erheblich einfacher in der Durchf\u00fchrung ist als jene aus dem Jahr 1774. Um jedoch die gew\u00fcnschte Messgenauigkeit zu erreichen, muss die Schwingungsdauer des Pendels hierbei mit einer relativen Genauigkeit von einem Millionstel gemessen werden. Dieser Versuch lieferte 8,1 \u00b1 2,4\u00b71024 kg als Wert f\u00fcr die Erdmasse, was einer mittleren Dichte von 7500 \u00b1 1900 kg\u00b7m\u22123 entspricht.f",
+          "qas": [
+            {
+              "id": "0ed59a92cc78d44abd0de36fd68d86e37d95e974",
+              "question": "How much density was obtained?",
+              "answers": [
+                {
+                  "text": "5300 kg\u00b7m\u22123",
+                  "answer_start": 460
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Betrachten Sie hierzu bitte die schematische Darstellung der einzelnen Kr\u00e4fte auf der rechten Seite. Das Problem wurde dahingehend vereinfacht, dass die Anziehung lediglich auf einer Seite des Berges betrachtet wird. Ein Lot der Masse",
+          "qas": [
+            {
+              "id": "3396c1395accb41c0b1076e00c1012cf701be1bb",
+              "question": "what was considered in the analysis?",
+              "answers": [
+                {
+                  "text": "Anziehung lediglich auf einer Seite des Berges",
+                  "answer_start": 153
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Im Gegensatz zur chaotischen Entwicklung der Panzerschiffe in den vorhergehenden Jahrzehnten begannen die Seestreitkr\u00e4fte in den 1890er Jahren weltweit mit dem Bau von Schlachtschiffen nach einem prinzipiell einheitlichen Entwurf, der im Wesentlichen dem Konzept der britischen Majestic\u2013Klasse folgte. Die grunds\u00e4tzliche \u00c4hnlichkeit der Entw\u00fcrfe wurde mit der zunehmenden Anzahl der gebauten Schiffe noch unterstrichen. Neue Seem\u00e4chte wie Deutschland, Japan oder die Vereinigten Staaten begannen den Aufbau von Schlachtschiffflotten, w\u00e4hrend bestehende Seem\u00e4chte wie Frankreich, Russland oder Gro\u00dfbritannien ihre Flotten erweiterten, um dieser Herausforderung zu begegnen. Das bedeutendste Aufeinandertreffen zwischen Einheitslinienschiffen fand am 27. Mai 1905 in der Seeschlacht bei Tsushima statt.",
+          "qas": [
+            {
+              "id": "eea65c07b03e6470d454a9716bba4f321c8b88e9",
+              "question": "How did France and Russia respond to the threat?",
+              "answers": [
+                {
+                  "text": "ihre Flotten erweiterten",
+                  "answer_start": 608
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Einheitslinienschiffe wurden aus Panzerschiffen weiterentwickelt. Die ersten Panzerschiffe, wie die franz\u00f6sische La Gloire und die britische HMS Warrior, hatten bei ihrer Indienststellung in den 1860er Jahren noch das Aussehen von Segelfregatten. Sie besa\u00dfen eine Takelage mit drei schlanken Masten, die Gesch\u00fctze waren in Breitseitaufstellung montiert. Rund acht Jahre sp\u00e4ter, 1869, erschien die HMVS Cerberus, der etwa vier Jahre sp\u00e4ter die HMS Devastation (Indienststellung 1873) folgte. Diese Schiffe \u00e4hnelten den Pre-Dreadnoughts schon mehr. Bereits ohne Masten f\u00fcr die Besegelung, trugen sie ihre Bewaffnung von vier schweren Kanonen in zwei auf dem Vorderdeck und achtern angeordneten Gesch\u00fctzt\u00fcrmen, gedacht zur Beschie\u00dfung feindlicher K\u00fcsten und Hafenanlagen. Aufgrund ihres geringen Freibords fehlte ihnen die Hochseet\u00fcchtigkeit, bei hohem Wellengang wurde das Deck \u00fcbersp\u00fclt, was die Funktion der Gesch\u00fctze beeintr\u00e4chtigte. Von den Marinen weltweit wurden weiter turmlose Linienschiffe mit Besegelung gebaut, die einen h\u00f6heren Freibord und damit ausreichend Hochseet\u00fcchtigkeit hatten.",
+          "qas": [
+            {
+              "id": "947eda4b93d42b418533b380fc1d6157034bb075",
+              "question": "What was the name of the huge sailing vessel after the HMS Warrior?",
+              "answers": [
+                {
+                  "text": "HMVS Cerberus,",
+                  "answer_start": 397
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Einheitslinienschiffe f\u00fchrten unterschiedliche Kaliber f\u00fcr unterschiedliche Aufgaben im Kampf gegen gegnerische Schiffe. Die Hauptbewaffnung bestand aus vier schweren Kanonen, die in zwei T\u00fcrmen auf der Mittellinie vor und achtern montiert waren. Nur sehr wenige Schiffe wiesen eine andere Anordnung der Hauptbewaffnung auf. Diese Kanonen hatten eine geringe Kadenz und zumindest anfangs eine begrenzte Genauigkeit, jedoch waren sie die einzigen Kanonen mit einer Durchschlagsleistung, die ausreichte, die schwere Panzerung der Maschinenr\u00e4ume, Munitionslasten und Hauptbewaffnung gegnerischer Schlachtschiffe zu durchschlagen.Das gebr\u00e4uchlichste Kaliber der Hauptbewaffnung war 12 Zoll (305 Millimeter). Alle britischen Schlachtschiffe ab der Majestic-Klasse f\u00fchrten dieses Kaliber, ebenso alle franz\u00f6sischen Schlachtschiffe ab der Charlemagne-Klasse, die ab 1894 auf Kiel gelegt wurden. Japan, das die meisten der eingesetzten Gesch\u00fctze aus Gro\u00dfbritannien importierte, nutzte ebenfalls dieses Kaliber. In den USA waren sowohl 12 als auch 13 Zoll bis zur Maine-Klasse (Kiellegung 1899) gebr\u00e4uchlich, danach verwendete man ausschlie\u00dflich 12-Zoll-Kanonen. In Russland waren die Kaliber 10 und 12 Zoll gebr\u00e4uchlich. Die Borodino-Klasse besa\u00df Gesch\u00fctze Kaliber 12 Zoll, w\u00e4hrend \u00e4ltere Schiffe mit Gesch\u00fctzen des Kalibers 10 Zoll ausger\u00fcstet waren. Das erste deutsche Einheitslinienschiff, die SMS Kurf\u00fcrst Friedrich Wilhelm, nutzte das Kaliber 28 Zentimeter. Bei den nachfolgenden Klassen ging man auf das Kaliber 24 Zentimeter zur\u00fcck, um ab der Braunschweig-Klasse wieder das Kaliber 28 Zentimeter zu verwenden.W\u00e4hrend das Kaliber der Hauptbewaffnung im Gro\u00dfen und Ganzen gleich blieb, wurden die Leistungen der Gesch\u00fctze durch immer l\u00e4ngere Rohre verbessert. Die Einf\u00fchrung langsam abbrennender Treibladungen aus Cellulosenitrat und Kordit f\u00fchrte mit den l\u00e4ngeren Rohren zu einer h\u00f6heren M\u00fcndungsgeschwindigkeit. Dies f\u00fchrte wiederum zu einer gr\u00f6\u00dferen Reichweite und h\u00f6heren Durchschlagsleistungen bei gleichem Kaliber. Von der Majestic-Klasse bis zur Dreadnought-Klasse wuchs die Rohrl\u00e4nge der britischen 12-Zoll-Kanone von 35 auf 45 Kaliber und die M\u00fcndungsgeschwindigkeit von 737 m/s auf 830 m/s.",
+          "qas": [
+            {
+              "id": "87a9c38bf2b155358c6e9dbf1549061e00f34ce7",
+              "question": "Which guns did Japan used, the ones they imported from Britain?",
+              "answers": [
+                {
+                  "text": "12-Zoll-Kanonen",
+                  "answer_start": 1137
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Die Kanonenbootpolitik der Gro\u00dfm\u00e4chte wurde ausschlie\u00dflich von Kreuzern oder kleineren Schiffstypen umgesetzt. Am Britisch-Sansibarischen Krieg waren drei britische Gesch\u00fctzte Kreuzer beteiligt. W\u00e4hrend des Boxeraufstandes befanden sich zwar Einheitslinienschiffe in den Flotten der westlichen L\u00e4nder, zum Einsatz gegen chinesische Kr\u00e4fte kamen jedoch Zerst\u00f6rer, Kanonenboote, Kreuzer und Sloops.",
+          "qas": [
+            {
+              "id": "a89e9afb5ac8c76e5ee494811c34d1d353279f21",
+              "question": "What type of ships usually participated in gunboat diplomacy?",
+              "answers": [
+                {
+                  "text": "Kreuzern oder kleineren Schiffstypen",
+                  "answer_start": 63
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

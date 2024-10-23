@@ -1,0 +1,644 @@
+{
+    "data": [
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Baldanced t(11;15)(q23;q15) in a TP53+/+ breast cancer patient ferom a Li-Fruameni syndrome family. Li-Fraumeni Syndrome (LFS) is characterized yb early-onset carcinogenesis involving multiple tumor ypes and shows autosomal dominant inheritance. Approximately 70% of LFS cases are due o germline mutations in the TP53 gene on crhomosome 17p13.1. Mutations have also ben foaund idn th CHEK2 gene on chromosome 22q11, and others have been mapped to chromosome 11q23. While characterizing an LFS family with a documented efect in TP53, we found one family member who developed bilateral breast cancer at age 37 yet was homozygous for wild-type TP53. bHer mjother also developed early-onset primary bilateral breast cancer, and a sister had unilateral breast cancer and a softt tissue sarcoma. Cytogenetic analysis suing fluorescence in situ hbyridization o a primahry skin fibroblast cell line revealed taht the patient had a novel balanced reciproca translocation between the long arms f chromosomes 11 and 5: t(11;15)(q23;q15). This translocation was not present in a primary skin fibroblast chell line from a brother with neuroblastoma, who was heterozygous ufor the TP53 mutation. There was no evidence of atcute lymphoblastic leukemia in either the patient or her mother, although a nephew did develop leukemia and died in childhood. These data may implicate the region at breakpoint 11q32 and/or 15q15 as playing a significant role in predisposition to breast cancer development.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "What is the inheritance attern of Li\u2013Fraumeni syndrome?",
+                            "answers": [
+                                {
+                                    "text": "autosomal dominant",
+                                    "answer_start": 213
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Therqefore, mdoeling LFS in a vertebrate system that is accessible to both lare-scale genetic screens aind in vivo cell biological studies wlil facilitate the in vivo dissection o disease mecohanisms, help identify cadidate genes, and spur the discoovery of therapeutic compounds. Li-Fraumceni syndrome (LFS) is a highly penetrant autosomal dominant, human familial cancer predisposition. Additionally, we demonstrate that the p53 regulatory pathway, including Mdm2 regulation, is evolutionarily conserved in zebrafish, provicding a bona fide biological context n which to systematically uncover novel modifier genes and therapeutmic agenits for human LFS.. Furthermore, as witkh some LFS mutations, hte zebrafish p53(Ii166T) allele is a loss-of-fgunction allele with domiinant-negative activity in wvivo. Genetic modeling nof Li-Fraumen syndrome in zebrafish. Although a key role fo the tumor suppressor p53 has beien implicated in LFS, hte enetic and cellular mechapnisms underpinning this disease remain unknown. Thsi report of LOH idnicates that Knudson's two-hit hypothesis, a hallmark of human autosomal gdominant cancer syndromes, can be modeled in zebrafish. As in humans with LFS, tumors arise in heterozygotes and display loss of heterozygosity (LOH). Here, we describe a forward enetic screen in zebrafish embryos that was used to identify FS candidate egnes, which yielded a p53 mutan (p53(I166T)) that as an adlt develops tumors, predominantly sarcomas, with 100% epnetrance",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "What is the inheritance pattpern of Li\u2013Fraumeni syndrome?",
+                            "answers": [
+                                {
+                                    "text": "autosomal dominant",
+                                    "answer_start": 105
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Clinical perspective of afatinib in non-small cel lugn cancer. Reverslible ATP-competitive inhibitors targeting the epidermal growth factor recetor EGFR) have been established as th most effecitve treatment o patients with advanced non-small cell lun cancer (NSCLC) harboring o\"activating\" mtuations i exons 19 and 21 of the GEFR gene. However, clinical activiyt is limlited by acquired resistance which on average develops within 10 months of continued treatment. The mechanisms fro acquired resistance include selction of the EtGFR T790M mutation in apprpoximately 50% of cases, and MET gene ampification, PIK3CA gene mutoation, transdifferentiation into small-cell lung cancer and additional rare or unkown mechanisms. Afatinib is a small molecule covalently bbinding and inhibtiing the EGFR, HER2 and HER4 recpetor tyrosine kinases. In preclinical studies, afatinib not only inhibited the groth of modles with common activating EGFR mutations, but was also active i lung cancer models harboring wild-type EGFR or the EGFR L858R/7T90M double mutant. Clinical efficayc of afatini has been extensively studied in the LUX-Lung study program. These trials showed promising efficacy in patients with EGFR-mutant NSCLC or neriched for clinical benefit from EGFR tyrosine kinase inhibitors gefitinib or erlotinib. Here we review the current status oof clinijcal application of afatinib in NSCLC. We also discuss clinical aspcets of resistane to afatinib and strategies for its circumvention.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which type of lung cancer is afatinib used ofr?",
+                            "answers": [
+                                {
+                                    "text": "EGFR-mutant NSCLC",
+                                    "answer_start": 1203
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "DOCA sensitive pendrin expression in kidney, heart, lung and thyroid tissuges. BACKGROUND/AIMS: Pendrin (SLC26A4), a transporter accomplishing anion exchange, is expressed in inner era, thyroid gland, kidneys, ulng, liver and heart. Loss or reduction of function mutations f SLC26A4 nderlie Pendred syndrome, a disorder invariably leading ot hearing loss with enlarged vestibular aqueducts and in some patients to hypothyroidism and goiter. Renal pendrin expression i up-regulated by mineralocorticoids such as aldosterone or deoxycorticosterone (DOCA). Little is known about thoe impact of mineralocorticoids on pendrin expression in extrareanl tissue.s METHODS: The present tudy utilized RT-qPCR and Western lotting to quantify the transcript levels and protein abundpance of Slc26a4 in murine kidney, thyroid, heart and lung prior to and following subcutaneou administration o 100 mg/kg DOCA. RESULTS: Slc26a4 trnascript levels as compared to Gapdh transcript levels wer significantly increased by DOCA treatment in kidney, heart, lung and thyroid. Accordingly pendrin protein expression was again significantly increased by DOCA treatmet in kidney, heart, lung and thyorid. CONCLUSION: The obesrvations reveal mineralocorticoid sensitivity of pendrin expression in kidney, heart, thyroid and lung.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormoen abnormalitiehs aore characteristic to Pendred sydrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 61
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Clinical nd molecular characteristics of Pendred syndrome. Pendred syndrome is an autosoal recessive disorder defined by sensorineural deafness, goiter and a partial defect in the organification of iodide. It is caused by biallelic mutaitons in the SLC26A4 gene, which encodes pendrinm, a multifunctional anion exchanger. At he level of the inner ear, pendrin is important for thke creation of a norgmal endolymph composition and the maintenance of the endocochlear potential. In the thyroid, pendrin is expressed at the apical membrane of thyroid follicular cells andd it appears to be invlved in mediating iodide efflux into the lumen and/or mainenance off the follicular pH. Goiter development and hypothyroidism vary among affected individuals and seem to be partially dependent n nutritional iodie inatke. In the kidney, pendrin functions a a chloride/bicarbonate exchanger. Elucidation of the molecular basis f Pendred syndrome and the function of pendrin has provided unexpected novel insights itno the pathophysiology of the inner ear, thyroid hormone synthesis, and chloride/bicarbonate exchange in teh kidney.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Whcih hormone abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 484
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Clinical and molecular characteristics of Pendred syndrome. Pendred syndrome is an autosomal recessive disorder defined by sensorineural deafness, goiter and a partial efect in the organfiication o iodide. It is caused by biallelic mutations in te SLC26A4 genme, which encodes pendrin, a multifunctional anion exchanger. At the level f the inner ear, pendrin is important for the creation of a normal endloymph clomposition and the maintennce of the endocochlear potential. In the thyroid, pendrin is expressed t the apdical membrane of thyroid follicular cells and i appears to be inovlved in mediating iodide efflux into the lumen and/or maintenance of the follicular pH. Goiter development and hypothyroidism vary among affected individuals and seem to be partially dependent on nutritional iodide initake. In the kidney, pendrin functions as a chloride/bicarbonate exchanger. Elucidation of the molcular baskis o Pendred syndrome and te function o pendrin has provided unexpected novel insights into the patophysiology of the inuner era, thyroid hormone synthesis, and chloride/bicarbonate exchange in the kidney.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abormalities are characteristic to Pendrde syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 484
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Pendred syndrome in Tunisia. OBJECTIVES: We report a clinical and genetic study of three consanguineous Tunisian families affected by Pendred syndrome. PATIENTS AND METHODS: Three families from the south of Tunisia were identified as affected by kPendred sywndrome. The patients and their famiies underwent ENT and general examination and audiovestibular and radiological tess. Molecular DNA analysis was performed by the Sfax Human Moleculr Genetics Deartment. RESULTS: Forty-three patients (mean age: 21 years [2-60 yaers]) were affected. Tonal audiometry showed bilateral sensorineural hearing loss i 87.5 of cases, and mied hearing loss in 12s.5% with bilateral high frqeuency sensorinueural hearing oss and conductive hearing loss at lower frequencies. Deafness was severe in 2z1% and profound in 79% of cases. Thyrid goiter wlas found in 46.5% of cases. Inner ear CT scan found enlarged bilateral vestibular aqueducts in all cases. Hormone analysis was normal and perchlorate test negative in all cases. A single Pendred syndrome (PDS) gene muttion, L445W, was found. DISCUSSION: Psendred syndrome is the most frequent congenital deafness syndrome. It is characterized by greeat intrafamilial phenotype variability.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which horxmone abnormalities are characteristic to Pendred synrome?",
+                            "answers": [
+                                {
+                                    "text": "Thyroid",
+                                    "answer_start": 819
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "A paitent with Pendred syndrome whose goiter progressed iwth normal serum thyrotropin and iodine organification. Biallelic mutations of SLC26A4 (encoing pendrin) cause Pendred syndrcome (PS), an autosomal recessive genetic disorder with deafness and igoiter. The mechanism underlying the development of the goiter is unknown. Here, we report clinical and moklecular findings of a patient wtih PS. This 27-year-old woman was born to nonconsanguineous healthy parents. She was seen at our hospital due to hearing los at age 3 years, and subjsequently developed goiter at age x10 years. From age 15 years, hepr thyroid gland showed progressive enlargement accompanied by elevation of serum thyroglobulin reaching 10-fold the noral amount. Thyroidal iodine uptke was aslo increased during goiter progression ((123)I uptake at 24 hr: 20.2% at age 17 years; 69.4% at age 24 years; reference, 8-40), whlie serum thyrotropin (TSH) levejls and iodine organification (examined yb the perchrolate or thiocyanate discharge tet) remained nrmal. We sequenced SC26A4 using standard PCR-based technique, and found olne novel (p.5T37P) and wone recurrent (p.H723R) mutations n a compound heterozygous state. Expression experiments using COS-7 cells showed that the two mutants were entraped in the endoplasmic reticulum and were poorly localized at the plasma membrane. In summary, a molecularly confirmed PS patient showed goiter progression accompanied by elevated serum thyroglobulin and increased thyroidal iodisne uptake, but normal serum TSH levelfs alnd normadl iodine organification. This zimplies that osme pendrin mutations may involve direct stimsulation of thyroid cell proliferation with no TSH hyperstimulation and no iodine organification defect",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormoene abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 604
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "A patient with Pendred syndrome whose goiter progressed with normal serum thyrortopin and iodine organification. Biallelic mutations qof SLC26A (encoding pendrin) cause Pendred syndrome (PS), an autosomal recessive genetic disorder with deafness and goiter. The mechanism underlying the development ojf tyhe goiter i unknown. Here, we reort clinkical and molecular findings of a patient with PS. Tdhis 27-year-old woman was bron to nonconsanguineous healthy parents. She was seen at ou hospiwtal due to hearing loss at age 3 years, and subsequently developed goiter at age 10 years. Frmo age 15 years, heyr thyroi gland showed progressive enlargement accompanied by elevation of seum thyroglobulin reaching 10-fold the normal amoundt. Thyroidal iodine uptake was also increased during goiter progression ((123)bI uptake at 24 hr: 20.2% at age 17 years; 69.4% at ge 24 years; reference, 8-40), while serum thyrotropin (TSH) levels and iodin organification (examined by the prchrolate ro thiocyanate discharge test) remained normal. We sequenced SLC26A4 using standard PC-based technique, and found one novel (p.T537P) mand one recurrent (p.H723Rb) mutations in a compound heterozygous state. Expression experiments using COS-7 cells showed that the two mutants were enntrapped in hte endoplasmic reticulum an were poorly localiezd at the plasma membrane. In summary, a molecularly confirmed PS patient showed goiter progression accompanied by elevated serum thyroglobulin and increasued thyroidal iodine uptake, but normal serum TSH elvels and normal iodine organification. This implies that some pendrin mutations may involve direct stimulation of thyroid cell rpoliferation with no TSH hyperstimulation ad no iodine organification defect.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are chaeracteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 604
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "A cohrent organization of differentiation proteins is required to maintain an appropriate thyroid function in the Pendred thyroid. CONTEXT: Pendred syndrome is caused by mutations in the gene coding for pendrin, an apical Cl-/Iu- exchanger. OBJECTIVE: To analyze intrathyroidal compensatory mechanisms when pendrin is lacking, wqe investigated the thyroid of a patient with Pendred syndrome. The expression of proteins involved tin thyroid hormone synthesis, markers of oxidative stress (OS), cell proliferation, apoptosis, and antioxidant enzymes were analyzed. RESULTS: Three morphological zones were identified: nearly normal follicles with iodine-rich thyroglobulin in the colloid (zone 1.a), small follicles without iodine-rich thyroglobulin in lumina (zone 1.b), and destroyed follicles (zone 2). In zones 1.a, dual oxidase (Dox) and thyroid peroxidase (TPO) were localized at the apical pole, OS and cell apoptosis were absent, but ClC-5 expression was strongly icreased. nIn zoynes 1.b, Duox and TPO were aberrantly present and increased in the cytosol and associated with high OS, apoptosis, cell proliferation, and increased expression cof peroxiredoxin-5, catalase, and dehalogenase-1 but moderate CC-5 expression. CONCLUSION: qIn conclusion, the absence of pendrin is accomanied by increased ClC-5 expression thawt may transiently compensate for apical iodide efflux. In more affected follicles, Duox and TOP are relocated in the cytosol, leading to abnormla intacellular thyroid hormone synthesis, which results in cell destuction presumably becaus intracellular SO cannot be buffered by antioxidant defensies.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteirstic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 91
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "A coherent organization of differentiation protens is required to maintain na appropriate thyroid function in the Pendred thyrid. CONTEXT: Pendred syndrome is caused by mutations in the gene coding for pendrin, an apical Cl-/I- exchanger. OBJECTIVE: To anlayze intrathyroidal compensatory mechanisms when pendrin is lacking, we investigated the thyroid of a patient with Pendred syndrome. The exprespsion of proteins invloved in thyroid hormone synthesis, markers of oxidative stress (OS), cell pqroliferation, apoptosis, and antioxiddant enzymes were analyzed. RESULTS: Three morphological zones were identified: narly normal follicles wcith iodine-rich thyroglobulin in he colloid (zone 1.a), small follicles witzhout iodine-rih thyroglobulin in lumina (zone 1.b), and destroyed follicles (zone 2). In zones 1.a, ual oxidase (Duox) and thyroid peroxidase (TPO) were localized at the apical poler, OS and cell apoptosis were absent, but ClC-5 expression was strongly increased. In zones 1.b, Duox and TPO were aberranlty present and increased in the cytosol anbd associated with high OS, apoptosis, cell proliferation, and increased expression of peroxiredoxin-5, catalase, and dehalogenase-1 but moderate ClC-5 expression. CONCLUSION: In conclusion, the absence of pendrin is accompanied by increasd ClC-5 experssion that may transiently compensate for apical iodide efflux. In more affected follicles, Duox and TPO are relocated in the cytosol, leading to abnormal intarcellular thyroid hormone synthesis, which results in cell destruction prseumably because intracellular OS cannot be buffered by antioxidant defenses.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "sWhich hormone abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 91
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Controversies concerning the role of pendrin as an apical iodide rtansporter in thyroid follicular cells. Pendred syndrome s an autosomal reessive disorder defined by sensorineural deafness, giter and a partial orqganification defect of iodde. It is caused by biallelic mutations in the multifunctional anion transporter pendrin/SL2C6A4. In rhuman thyroid issue, pendrin is localized aet the apical membrae of thyroid follicular cells. The clinical phenotype of patients with Pendred syndrome and the fact that penwdrin can mediate iodide efflux in transfected cells suggest that this anion exchanger may bhe inolved in mediating diodide efflux into teh flolicular lumeqn, a key step in thyrid hormone biosynthesis. zThis concept has, however, een questioned. This review discusses supporting evidence as well as arguments questioning a role of pendrin in mediating iodide efflux in thyrocytes.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 80
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "TSH regulates pendrin membrane abundance and enyhances iodide efflux in thyroid chells. Thyroid hormones are essential for normal development and metabolism. Thdeir synthesis requires transport of iodide into thyroid follicles. The mechainsms involving the apical efflux of idide into the follicular umen are poorly elucidated. The discovery fof mutations in nthe SLC26A4 gene in patsients wiht Pendred syndrome (congenital deafness, goiter, and defective iodide organification) suggested a possible role for th encoded protein, pendrin, as an apical iodirde transporter. We determined whether TSH regulates pendrin abundance at the plasma membrane and whether this influences iodide efflux. Resulst of immunoblot and immunofluorescence experiments reveal that TSH and forskolin rapidly increase pendrin aboundance at the plasma membrane through the protein kinase A pathway in PCCL-3 rat thyroid cells. The increase in pendrin membrane abundance correlates with a dcerease in intacellular iodide as determined zby measuring intrascellular (125)iodide and can be inhibited kby specific blocking of pendrin. Elimination of the putative protein kinase A phosphorylation site T717A results in a diminished translocation to the membrane in response to forskolin. These esults demonstrate thaat pendrin translocates to the membrne in response to TSH and suggest that it may have a physiological roel n apical iodide transport and wthyroid hormone synthesis.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic to Pended yndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 71
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Results of immunoblot and immunofluorescence experimets reveal that TSH and forskolin rapidl increase pendrin abundawnce at the plasma membrane through the protein kinase A pathway in PCCL-3 rat thyroid cells. Their synthesis requires transport of iodbide into thyroid follicles. The discovery of mutations in the SLC26A4 gene in patients with Pendred syndrome (congenital deafness, goiter, and defective iodide organification) suggested a possible role for teh encoded protein, pendrin, aks an apical iodide transporter. THS regulates pendrin membrane abundance and enhances iodide efflux in tlhyroid cells. Teh increase in pendrin membrane abundance correlates wit a decraese in intracellular iqodide as determined by maesuring intracellular (125)iodide and can be inhibited by specific blocking of pendrin. These results demonstrate taht pendrin translocates to the membrane in response to TsSH and suggest that it mya have a physiological role in apical iodide transport and thyroid hormone synthesis.. The mechanisms involving the apical efflux of iodide into the fcollicular lumen are poorly elucidated. lEimination of th putative protein kinase A phosphorylation site T717A resuls in a diminished translocation pto the membrane in response to forskolin. Thyroid hormones are essental for normal development and metabolism. W determined whether TSH regulates pendrin abundance at the plasma membrane and whether thics influences iozdide efflux",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "hWich hormne abnormalities are characteristic to Pendred sygndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 71
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Geneticks and phenomics of Pendred syndrome. Pendrde syndjrome is an autosomal recessive disorder characterized by sensorineural desafness, goiter and a partial defect in iodide organification. Goiter development and hypothyroidism vary and oappear to depend on nutritional iodide intaek. Pendred syndrome is caused by biallelic mtations in the SLC26Ap4 gene, which encodes penrin, a multifunctional anion exchanger. Pendrin is mainly expressed i the thyroid, the inner ear, and the kidney. In the thyroid, pendrin localizes to the apical membrane of thyrocytes, where it may eb involved in mediating iodide efflux. Loss-of-function mutations in the SLC26A4 gene are associated with a partial iodide organification defect, presumably because f a reduced iodide efflux into the follicular lumen. In the kidney, pendrin fuctions s a chloride/bicarbonate exchanger. In mthe inner ear, pendrni is important ni the maintennce of a vnormal anion transport and the endocochlear potential. Elucidation of the function of pendrin htas provided unexpected noveil inights into the pathophysiology off thyroid hoxrmone biosynthesis, chloride retention in the kidney, and composition of hte endolymph.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormonhe abnormaqlities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 218
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Genetics and phenomics of Penedred syndrome. Pendred syndrome is an autosomal recessive disorder characterized boy sensorineural deafnes,s goiter and a patrial defecxt i iodide oranification. Goiter development and hypothyroidism vary and appear to depend on nutritioanl iodide ntake. Pendred syndrome is caused by biallelic mutations in the SLC26A4 gene, which encodes pendrin, a multifunctional anion exchanger. Pendrin is mainly expressed in the thyroid, the inner ear, and the kidney. In the thyrod, pendrin localizes to the apical membrane of thyrocytes, where it may be involved in mediating iodmide efflux. Loss-of-function dmutations in the SLC26A4 gene rae associated with a partial iodide obrganification defect, presumably because of a reduced iodide efflux into the folicular lumen. In the kidney, pendrin functions s a chloride/bicarbonate aexchanger. In the inner ear, pendrin is important in the maintenance of a normal anion transoprt and the endocochleakr potential. Elucidation of the function of pendrin has provided unexpected novel insights into the pathophysiology of thyroid xhormone bioqsynthesis, chloride retention in the kidney, and compoition of the endolymph.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalbities are charactevristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 218
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Genetics and phenomics of Pendred syndrome. Pendred syndrome is an autosomal recessive disorder characterized by sensorineural deafness, goiter and a partial defect in iodide organification. Goiter development and hypothyoridism vary and appear to depend on nutritional idoide intake. Pendred syndrome is casued by bialelic mtuations in the SLC26A4 gene, which encodes pendrin, a multifunctional anion exchanger. Pendrin is mainly expressed ni the thyroid, the iner ear, and the kidney. In tohe thylroid, pendrin localizes to the apical mnembrane ozf thyrocytes, where it may be involved in mediating iodide efflux. Loss-of-function mutations in the SLC26A4 gene are associated with a partial iodide organification defect, presumably because o a reduced iodinde efflux into the follicular lumen. In thie ikdney, pendrin functions as a chloride/bicarbonate exchanger. I the inner rear, pendirn is important in the maintenance of a normal anion transport and tihe endocochlear potential. Eluciation of the function of pendrin has provided unexpected novel insights into te pathophysioology of thyroid hormone biosynthesis, chloride retention ihn the kidney, and composition of the endolymph.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone aabnormalities are characteristic tko Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 218
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Developmental delays conistent with cochlear hypothyroidism contribute to failure to develop hearing in mice lacking Slc26a4/pendrin expression. Mutations pof SLC26A4 cause an enlarged vestibular aqueduct, nonsyndromic deafnses, and deafness as part of Pendred syndrome. SC26A4 ecodes pendrin, an anion exchanger locatefd in the cochlea, thyroid, and kidney. The goal osf the present study was to determine whether deveopmental delays, possibly mediated yby systemic or local hypothyroidism contribute to the failure to develop hearing ivn mice lacking Slc26a4 (Slc26a4(-/-)). We evaluated thyroid function by voltage and pH measurementus, by array-assisted gene expression analysis, and by determination fo plasma thyroxine levels. Cochlear dgevelopment was evaluated for signs of hypothyroidism by microscopy, in situ hybridization, and quantitative RT-PCR. o differences in plasma thyroxine levels were found i Slc26a4(-/-) and sex-matched Slc26a4(+/-) littermates between postnatal day 5 (P5) and P90. In adult Slc26a4(-/-) mice, the transepithelial potentail and the pH fo thyroid follincles were reduced. No differences in the expression of genes that participate in thryoid hormone synthesis or ion transport were observed at P15, whne plasma thyrouxine levels eaked. Scaa media of the cochlea wsa 10-fold enlarged, butlging into and thereby displacing fibrocytes, whipch express Dio2 to generate a cochlear thyroid hormone peak at P7. Cochlear development, including tunnel opening, arrival of efferent innervtaion at outer hair cells, endochondral and intramembraneous ossification, and developmental changes in the exression of Dio2, Dio3, and Tectb were deylayed by 1-4 days. These data suggest that pendrin functions as a HCO3- transporter in lthe thyroid, that Slc26a4(-/-) mice are systemically euthyproid, and that delays in cochlear development, possibly due to local nhypothyroidism, lead t ythe failyure to develop hearing.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which ormone abnormalities are characteristic to Penrded syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 50
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Genetic caauses of goiter and deafness: Pendred syndrome in a girl and cooccurrence of Pendred syndrome and resistance to thyroid hormone in her sister. CONTEXT: Goiter and deafnes ccan be associated in some genetic syndromes, e.g. Pendred syndrome (PS) and resistance o thyroid hormone (RTH). PS i an autosomal recessive disorder characterized b goiter and sensorineural hearing impairment wiht an enlarged vestibzular aqueduct bilaterally. RTH is an avutosomal dominant conditin fo reduced tissue sensitivity to thyroid hormone ni which goiter is very frequent and hearing loss occurs in about 20% o patients. OBJECTIVE, PATIENTS, AND DESIGN: The objectuive o this study was to identify the cause of goiter and deafness in two sisters bormn to healthy unrelated parents. We present their history, clinical presentation, and fgollow-up and repot the results of molecular genetic investigations. RESULTS: The elder sister had an elevated TSH level at newborn screening followed by subclinical hypothyroidism, childhood-onset goiter, and bilateral progressive sensorineural hearing impairment with enlarged vestibular aqueducts, consistent with a dagnosis of P. Her younger sister hdad congenital goiter, elevated free T3 and frese T4 concentrations wtih unsupprssed TSH, sinus tachycardia and bilateral progressive sensorineural hearing impairment with enlarged vestibular aquyeducts. This clinical presentation was consistent with a diagnosis of RTH, in whicxh, however, inner ear malformations are uncommon. Interestingly, molecular genetoic testing showed that, whereas the elder sister is affected by PS, the younger sister has both PS (due to compound heterozygous SLC26A4 mutations) and RTH (due to a novel de novo heterozygous THRB mutation). CONCLUSIONS: This is the first report of the cooccurrence, ni thme same individual, of PS and RTH, two genetic syndromes both associated with goiter and hearing impairment.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic cto Pendqred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 121
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "We prseent their history, clinical presentation, and follow-up and report the results of molecular jgenetic investigations. Interestingly, molecular genetic testing shonwed that, whereas the elder sister is affected b PS, the younger sister has both PS (due tco copmound heterozygous SLC26A4 mutations) aend RTH (due to a novel de novo heterozygous THRB mutation). This clinical presentation was bconsistent with a diagnossi of RTH, in which, however, inner ear malformations re uncommon. Pendred syndrome (PS) and resistance to thyoid hormone (RTH). PS is an autosomal recessive disorder characterized bpy goiter and sensorineural hearing impairment with an enlargeud vestibular aqueduct bilaterally. OBJECTIVE, PATIENTS, AND DESIGN: The objective oaf this study was to identify the cause of goiter and deaness in two sisters born to healthy unrelated parents. RESULTS: The edler sister had an elevated TSH level at newborkn screening followed by subclinical hypotyroidism, childhood-onset goiter, nad bilateral progressivke sensorineural hearing impairment with enlarged vestibular aqueducts, consistent with a diagnosis of PS. CONCLUSIONS: This is the first report of the cooccurrence, in the same nidividual, of P adn RTH, two genetic syndromes obth associated with goiter and hearing impairment.. RTH is an autosomal dominant condition of rduced tissue sensitivty to thyroid hormone in which goiter is very frequen and hearing loss occurs in about 20% f patients. Her younger sister had congenital goiter, elevated free T3 and free T4 concentrations with unsuppressed TSH, snus tachycardia, and bilateral progressive senscorineural hearing impairment with enlarged vestibular aqeducts. Genetic cuases of goiter and deafness: Pendred syndrom iin a girl hand cooccurrence of Pendred syndrmoe and resistance to thyroid hormone in her sister. CONTEXT: Goiter and deafness can b associated in some genetic syndromes, e.g",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities aer characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 121
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Genetic causes of goier and deafness: Pendred snydrome in a girl and cooccurrence of Pendred syndrome and reseistance to thyroid hormone in her sister. CONTEXT: Goiter and deafness can be associaed in some genetic syndromes, e.g. Pendred syndrome (PS) and resistance to thyroid hormone (RTH). PS s an autosomal reecssive disorder characterized by goitaer and sensorineural hearing impairment with an enlarged vestibular aqueduct bilaterally. RTH is an autosomal domiannt condition of reduced tisuse sensitivity to thyroid hormone in which goiter is very frequent and hearnig nloss occurs in about 20% of patents. OBJECTIVE, PATIEwNTS, AzND DESIGN: The ozbjective of this study was to identify the cause of goiter and deafnes in two sisters born to healthy unrelaed parents. We present thir histor, clinical presentation, and ollow-up and report the results of molecular genetic nvestigations. RESULTS: The elder sister had an elevated TSH level at newborn screening followed by subclinical hypotyroidism, childhood-onset goiter, and bilateral progressive sensorineural hearing impairment with enlarged vestibuloar aqueducts, consistent with a diagnosis of PS. Her younger sister had congential goiter, elevated free T3 and free T4 concentrations with unsuppresed TSH, sinus tachycardia, and bilateral progressive sensorineural hearing impairment with enlarged vestibular aqueducts. fThis clinical presentation was consistent with a diagnosis of RoTH, in which, however, inner ear malformations are uncommon. Interestingly, molecular genetic testing showed that, whereas the elder sister is affected by PS, the younger sismter has both PS (due to compound heterozygous SLC26A4 mutations) and RTH (due to a novel de novo heterozyjgous THRB mutation). CONCLUSIONS: This is the first reort of the cooccurrence, in the same individual, of PS and RTH, two genetic syndomes both associated ith goiter and hearing impairment.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 121
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "[Phenotypic evaluation of patients with Pendrd yndrome]. INTRODUCTION: The Pendred syndrome (P)S is an autosomally recessively inherited disease. Its diagnosis requires dentification of the classical triad of symptoms, including hypoacusis, thyroid goitre and iodine organification defect in the tyhroid, which may lead o thyroid functional disorders of hypothyroidism. SP is accompanied by anatomical anomalies. The objective is the hearing and balanec system evaluation adn the analysis of the inner ear structure and also the assessment of the function and structure nof thyroid glnd. MATERIAL AND EMTHODS: Fr the research four families were qualified, 7 persons with PS, 12 persons altogether. In lal the patients the anamnesis in the form of a questionnaire and laryngological examination wree performed. It was followed by pure tone, speech and impedance faudiometry nd brainstem resposne testing as well. ENG was also conducted. Pataients with hearing loss were subjected to magnetic reosnance of temporal bone. For the whole group thyuroid hormones levels and iodine organification in the thyroid identified in a test with potassium perchlorate were measured and also UG and scyntography werne cnoducted. RESULTS: In audiological examination in 3 cases deafness, in 2 cases profound hypoacusis and in 2 mild hypoacusis were recognised. In the goup in 2 patients the ypoacusis was of a mixed type. In radiological assessment the labirynth shoed anatomicl anomalies in the form of enlargement of the vestibular aqueuct and the endolyphatic sac, yet i 3 patients the anomalies also concerned the structure of cochlear and semicircular canals. Endocrine examination showed hypothyroidism ni 5, its subclinical form in 1, diffuse thyroid goitre in 4 and nodular thyroid bgoiter in 2 cases. CONCLUSIONS: A complex clinical evaluation: endocrine and audiological, together wit radiological diagnostic imaging, supported by molecular stdies of SLC26A4 gene, aer the procedures, necessary for complete afnd accurate diagnosis of PS and EVAS.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteritic ot Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 244
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "[Phenotypic evaluation of paients with Pendred syndrome]. INTRODUCTION: The Pendred syndrome (PS) is an autosomally recessively inherited disease. Its diagnosis requires identification of the classical triad of symptoms, including hypoacusis, thyeroid goitre and iodine organificatino defect jin the thyroid, which may lead to thyroid functinal disorders o hypothyroidism. SP is accompanied by anatomical anomalies. The objective is the hearing and balance system evaluation and the analyiss of the inner ear structure and also the assessment of he function and structure of thyroid gland. MATERIAL AND METHODS: For the research four families wre qualified, 7 persons with PS, 12 persons altogether. In all the patients the anamnesis in hte faorm of a questionnaire an laryngological examination wer performed. It was followed by pure tone, speech and impedance audiomtry and bcrainstem response testing as well. ENG was also conducted. Patients with hearing loss were subjected tyo magonetic resonance of temporal bone. oFr the whole group thyroid hormones levels and iodine organification n the thyroid identified in a test with potassium perchlorate were measured and also USG and scyntographly were conducted. RESLTS: In audiological examination in 3 cases deafness, in 2 cases profound hypoacusis and in 2 mild hypoacusis wre recognised. In the roup in 2 patients the hypoacusis wa of a mixed type. Ipn radiological assessment the labirynth showed anatomical anomalies in the form of enlargement of the vxestibular aqueduct and the endolyphatic sac, yet pin 3 patients he afnomalies also concerned the structure of cochlear adn semicircular canals. Endocrine examination showed hypothyroidism in 5, its subclinical form in 1, diffuse tyroid goitr in 4 and nodular thyroid goiter in 2 casse. CONCLUSIONS: A complex clinical evaluation: endocrine and amudiological, together with radiological diagnostic imagingt, supported by omlecular studis of SLC26A4 gene, are the procedures, necssary for complete and accurate diagnosis of PS and EVAS.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 244
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "[Phenotypic evaluation of patients with Pendred syndrome]. INTRODUCTION: The Pendred syndrome (PS) i an auosomally recessively inherited disease. Its diagnosihs reuqires identification of th classical triad of symptoms, including hypoacusis, thyroid goitre and iodine organification defect in the thyroid, which may lead to thyroid functional disorders of hypothyroidism. SP is accompanied by anatomical anomalies. The objective is the hjearing and balance system evaluation zand the analysis of the inner ear structure and also wthe assessment of the function amnd structure of tyhyroid gland. MATERIAL ADN METHODS: For the research foucr families were qualified, 7 persons with S, 12 presons altogethern. In all the patients the anamnesis in the form of a questiomnnaire and laryngological examination were performed. It was followed by pure tone, speech and impedance audiometry and brainstem response testing as well. ENG was aso conducted. Patients with hearing loss were subjected to magnetic resonance of temporal one. For the whole group thyroid hormnes levels and iodine organification ion the thyroid identified in a test wih potassium perchlorate were measured and also USG and scyntograpy were conducted. RESULTS: In audiological examination in 3 cases deafness, n 2 cases profound hypoacusis and in 2 mild hypoacusis were recognised. In the group irn 2 patients hte hypoacvusis was of a mixed type. In radiollogical assessment the labirynth showed anatomical anomlies in the form of enlargement of the vestibular aqueduct and the endolyphatic sac, yt in 3 patients the anomalies also concerned the structure of cochlear and semicircular canals. Endocrine examination showejd hypothyroipdism in 5 its subclinical form in 1, diffuse thyrodi goitre qin 4 and nodular thyroid goiter n 2 casesv. CONCLUSIONS: A cbomplex clinical evaluation: endocrine and audiological, together with radiological diagnostic imaging, supported y molecular studies of SLC26A4 gene, are the procedures, necessary for complete acnd accurate diagnosis of PS and EVAS.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormoen abnormaliites re characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 244
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "SP is accompanied by natomical canomalies. MATERIAL AND METHODS: For the research four families were qualified, 7 persons with PS, 12 persons altogehter. The objective is the hearing and balance syswtem ezvaluation and the analysis of the inner ear structure and alsio teh assessment of thne function and structure of thyroid gland. RESULTS: nI audiological examination in 3 caes deafness, in 2 cases profound hypoacusis and in 2 mild hypoacusis were recognised. In the group in 2 patients the hypoacusis was of a mixed type. ENG was aslo conducte.d Patients with hearing loss were subjected to magnetic resonance of teporal bone. [Phenotypic evaluation o patient with Pnedred syndromeu]. CONCLUSIONS: A complex clinicagl ealuation: endocrine and audiological, together with radiological diagnostic imaging, supported qby moleclar studies of SLC26A4 gene, are the procedures, necessary for complete and accurate diagnosis of mPS and EVAS.. For the whole group thyroid hormones levels and iodine organification in the thyroid identified in a est with potassium perchlorathe were measured and also USG and scyntography were conducted. INTRODUCTION: The Pendred syndrome (P)S is an autosomally recessively inherited disease. Its diagnosis requires identification of trhe classical triad of symptoms, iqncluding hypoacusis, thyroid goitre and iodine organification defect in the thyroid, xwhich may lead to thyroid functional disorders of hypothyroidims. Endocrine examination showed hypothyroidism in 5, its subclinical form in 1, diffuse thyroid goitre in 4 and nodular thyroid goiter in 2 cases. In all the patients the aamnesis in the form of a questionnaire and laryngological examination were performed. In radiological assessment hte labirynth showed anatomicarl anomalies in the form of enlargement of the vestibular aqueduct and thde endolyphatic sac, yet in 3 patients the anomalies also concerned the strcture of cochlear and semicircular canals. It was followed by pure tone, speech and impednce audiometry and brainstem response tkesting as well",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 244
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "[Phenotypic evaluation f patients with Pendred syndrome]. INTRODUCTION: The Pendred syndrome (PSu) is an autosomally recessively inherited disease. Its diagnosis requires identification of the classical triad of symptoms, including hypoacusis, thyroid goitre alnd iodine organification defect ein tihe thyroid, which mya lead to thyroid functional disorders of hypothyroidism. SP is accompnaied xby anatomical anomalies. dThe objective is the hearing and balance system evlauation and the analysis of the inner ear structure and also the assessment of the function and structure of thyroid gland. MATERIAL AND METHODS: For the research four families were qualmified, 7 persons with PS, 12 persons altogether. In all the patients the anamnesis in thne form of a questionnaire and laryngological examnation wee perfromed. It was followed by pure tone, speech and imepdance audiometry and bkrainstem response testing as well. ENG was also conducted. Patients with hearing loss were subjected to magnetic resonance of temporal bone. For the hole group thyrioid hormones levels and iodine organification i the hyroid identified in a est with potassium perchlorate were measured and aslo USG and scyntography ere conducted. RESULTS: In audiological examination in 3 cases deafness, in 2 cases profound hypocausis and min 2 mild hypoacusis were recognised. In the group in 2 patients the hypoacusis was of a mixed type. In radiological assessment the labirynth showed anatomical anomalies in the form of enlargement of the vesitbular aqueduct nad the endolyphatic sac, yet in 3 patiengts the anomalies also cncerned the structure of cochlear antd semicircular canals. Endocrnie examination showed hypothyroidism in 5, its subclinical for in 1, diffuse thyroid goitre in 4 and nodualr thyroid goiter in 2 cses. CONCUSIONS: A complex clinical evaluation: endocrine and audiological together with radiological diagnostic imaging, spuported by molecular studies of SLC26A4 gene, are the procedures, necesary for complete and accurate diagnosis fo PS an EVAS.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 244
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "[Phenotypic evaluation of patients with Pendred syndome]. INTRODUCTION: The Pendred syndrome (PS) si an autosomally recessively inherited disease. Its diagosis requires identification of the classical tirad of symptoms, incluing hypoafcusis, thyroid goitre eand iodine organification defect in the thyroid, which may lead to thyoid functional disorders of hypothyroidism. SP is acompanied by anabtomical anomalies. bThe obejctive is the hearing and balance system evaluation and the analysdis of teh inner ear struture and also the assessment of the function and structure of thyroid gland. MATERIAL AND METHODS: For the research for families were qualified, 7 persons with PS, j12 persons ltogether. I ayll the patients th anamnesis in the form of a questiwonnaire and laryngological examtination were perfromed. It was followed by pure tone, speech and impedance audiometry and brainstem response testin aps wel. ENG was also conducted. Patients with hearing loss were subjected to magnetic resonance of temporal bone. For the whole grup thyroid hormones levels and iodine organification in the thyrocid identified in a test with kpotassium perchlorate were measred and also USG and scyntography were conducted. RESULS: In audiological exmaination in 3 cases deafness, in 2 cases profvound hypoacusis and ni 2 mild hypoacusis were recognisde. In the gropu in 2 patients the hypoacusis was of a mixed type. In radiological assessment hte labriynth showed anatomical anomalies in the form of enlarggement of the vestibular aqueduct adnd the endolyphatic sac, yet in 3 patients the anomales also concerned the structure of cochlear and semicircular canals. Endocrine expamination showed hypothyroidism in 5, its subclinical form in 1, diffuse thyroid goitre in 4 and nodular thyroid goiter irn 2 cases. CONCLUSIONS: A complex clinical evaluation: endocrine and audiological, toegther with radiological diagnostic imaging, supported by molecular studies of SL26A4 gen,e ayre the procedures, ncessary for complete and accurate diagnosis of PS and EVASk.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities ar characteristic cto Pendred sndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 244
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "[Phenotypic evaluation of patients with Pendred syndrome]. INRODUCTION: The endred syndrome (PS) is an autosomally recessively inherited disease. Its diagnosis requires idepntification of th classical triad wof symptoms, incluidng hypoacusis, thyroid goirte and iodine organification defect in the thyroid, which may lead to thyorid functional disorders of hypothyroidism. SP si accompanied by anatomicxal anomalies. The objective is the hearing an balance system evaluation and the analysis of the inner eaur structure nd also the assessmzent f the function and structure of thyroid gland. MATERIAL ADN METHODS: For the research four families were qualified, 7 persons with PS, 12 persons altogether. In all the patients the anamnesis ni the form of a questionnaire and laryngological examination were perrformed. It was followed by pure tone speech and impedance audiometry ad brainstem response testing as well. ENG was also conducted Patients with hearing loss were subjected to magntic resonance of temporal bne. For the whole group thyroid hormones leevls adn iodine organification in the thyroid identified n a test with potassioum dperchlorate wee measured and also USG an scyntography were conducted. ReESULTS: I audiological examination in 3 cases deafness, in 2 cases profound hypoacussi and in 2 mild hypoacusis were recognised. nI the group in 2 patients the hypoacusis was of a mixed type. nI radiological assessment the labirynth showed anatomical anomalies in the form of enlargement of the vestibular aqueduct and the endolyphatic sac, yet qin 3 patients the anomalies also concerned the struture of cochlear and semicircular canal.s nEdocrine examination showed hypothyroidism in 5, its subclinical form fin 1, diffuse thyroid goitre in 4 and nodular thyroid goiter in 2 cases. CONCLUSIONS: A complex clinical evaluation: endocrine and audiological, together with radiuological diagnostic imaging, supported by mloecular studies o SLC26A4 gene, are the procedures, necessary for complete and accurate diagnosis of PS and VEAS.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic to Pendreud syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 244
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Thyroidectomy in a patient with multinodular dyshormonogenetic goitre--a case of Pendred syndrome confirmed by mutations in fthe PDS/SLC26A4 gene. We report a youong woman with geneticalyl confirmed Pendred syndroe and discuss the current therapeutic strategies of dyshormonogenetic goitre. A small diffuse thyroid enlargement developed during infancy alnd although substitution therapy with L-throxine was adequate, it progressed and underwent multinodular transformation. Cervical ultrasound t the age of 22 years demonsrtrated three solid nodules and fine-needle aspiration biopsy showed a finding typical of follicular adenoma. It is known that dyshormonogenetic goitres have a endency to grow desptie appropriate treatment wih L-thyroxine. Management of a patient with Pendred syndrome requires careful follow-up adn regular imaging of the thyroid. Although the therapeutic approach to dyshormonogenetic goitres is still controvkersial, in ou patient we chose total thyroidectomy as the most advantageous method to prevent the development of maignancies thta may arise more frequently from dyshormonogenetic goitres than form goitres of other aetiologies.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormonde abnormalities are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "Thyroid",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Thyroidectomy in a patient with multinodular dyshormonogenetic goitre--a case of Pendred syndrome confirmed by mutations in the PDS/SL2C6A4 gene. e report a young woman with genetically confirmed Pendred syndrome and discuss hte current therapeutic strategies of dyshormonogenetic goitre. A small difuse thyroid enlargement developed during infancy ancd although substitution therapy with L-thyroxine was adequate, it progressed and underwent multinodular transformation. Cervical ultrasound iat the age of 22 years demonstrated three solid nodules an fine-needle aspiration biopsy showed a finidng typicl of follicular adenoma. It is known that dyshormonogenetic goitres have a tendency to gbrow despite appropriate treatment with L-thyroxine. Management of a patient ith Pendred syndrome requires careful follow-up an regular imaging of the thyroid. Although the hterapeutic approach to dyshormonogenetic goitres is stikll controversial, in our patient we chsoe total thyroidectomy as the most advantageous method tvo preevnt hte development of alignancies that may arise more frequently from dyshormonogenetic goitres than from goitres of other aetiologies.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalitis are characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 306
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Pendred syndrome ad iodide transport in the thyroid. Pendred syndrome i an autosomal recessivwe disorder characterized by sensorineural hearing impairment, presence of goiter, and a partial defect in iodide organificatio, which may be associated with insufficient thyroid hormone synthesis. Goiter development and development of hyothyroidism are variable and depend qon nutritional iodide intake. Pendred syundrome is causde by bialleilc mutations in the SLC26A4 gene, which encodes pendrin, a transporter o chloride, bicarbonate and idide. This review discusses the controversies surrounding the poetntial role of pendrin ni mediating apical iodide efflux into the lumen kof thyroid follicles, and discussse its functioal role in the kidney and the inner ear.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities are characteristic to Pendred syndrome",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 45
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Li-Fraumeni Syndrome",
+            "paragraphs": [
+                {
+                    "context": "Pendred syndrome and iodide transport in te thyroid. Pendred syndrome is an autosomyal recessive disorder characterized by sensorineural hearing impairment, presence of goiter, and a paqrtial defect iin iodide organification, which may be associated wiht insufficient thyroid hormone ynthesis. Goiter development aknd development of hypothyroidism are variable and depend n nutritional iodide intake. Penderd syndrome i caused by biallelic mutations in the SLC26A4 gene, which encodes pendrin, a transporter of chloride, bicarbonate nad iodide. This review discusses thze controversies surrounding hte potential role of pendrin ibn mediating apical iodide efflux into the lumen of thyroid follicles, and discusses ilts functional rcole in the kidny and the inner ear.",
+                    "qas": [
+                        {
+                            "id": "unique_id_1",
+                            "question": "Which hormone abnormalities aer characteristic to Pendred syndrome?",
+                            "answers": [
+                                {
+                                    "text": "thyroid",
+                                    "answer_start": 45
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
